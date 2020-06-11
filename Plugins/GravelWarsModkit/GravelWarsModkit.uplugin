@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "GravelWarsModkit",
+	"Description": "Contains all the stuff needed for a Gravel War gamemode map.",
+	"Category": "Other",
+	"CreatedBy": "Iamgoofball",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false
+}
