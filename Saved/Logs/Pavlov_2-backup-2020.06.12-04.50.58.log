@@ -1,0 +1,1450 @@
+﻿Log file open, 06/11/20 21:50:44
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Pavlov
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.235487
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamAudio
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin CustomMapTools
+LogPluginManager: Mounting plugin GravelWarsModkit
+LogPluginManager: Mounting plugin JsonUtils
+LogStreaming: Display: Took  0.157s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz, GPU: NVIDIA GeForce RTX 2060 SUPER
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: F:/gravelwars-pavlov/Pavlov.uproject -run=cook -targetplatform=WindowsNoEditor+LinuxServer -UnVersioned -map=/Game/CustomMaps/UGC2127530177/KOTH_Example
+LogInit: Base Directory: F:/UE_Pavlov/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.006s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.06.12-04.50.44:656][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2020.06.12-04.50.44:656][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.06.12-04.50.44:656][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/gravelwars-pavlov/Saved/Config/Windows/Engine.ini]
+[2020.06.12-04.50.44:656][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.06.12-04.50.44:656][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.06.12-04.50.44:656][  0]LogConfig: Setting CVar [[r.CustomDepth:0]]
+[2020.06.12-04.50.44:656][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:0]]
+[2020.06.12-04.50.44:656][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.06.12-04.50.44:656][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2020.06.12-04.50.44:656][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.06.12-04.50.44:656][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:2]]
+[2020.06.12-04.50.44:656][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2020.06.12-04.50.44:656][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2020.06.12-04.50.44:656][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.06.12-04.50.44:656][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:2]]
+[2020.06.12-04.50.44:656][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2020.06.12-04.50.44:656][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2020.06.12-04.50.44:656][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2020.06.12-04.50.44:656][  0]LogConfig: Setting CVar [[r.ForwardShading:1]]
+[2020.06.12-04.50.44:656][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:3]]
+[2020.06.12-04.50.44:656][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2020.06.12-04.50.44:656][  0]LogConfig: Setting CVar [[r.Streaming.MaxTempMemoryAllowed:512]]
+[2020.06.12-04.50.44:656][  0]LogConfig: Setting CVar [[r.EarlyZPassMovable:0]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[r.ParallelTranslucency:0]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:0]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:0]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:0]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:0]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:0]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:0]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:0]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[r.Streaming.UseNewMetrics:0]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[r.TonemapperFilm:0]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:1]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:0]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:1]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/gravelwars-pavlov/Saved/Config/Windows/Engine.ini]
+[2020.06.12-04.50.44:657][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/gravelwars-pavlov/Saved/Config/Windows/Engine.ini]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:0]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/gravelwars-pavlov/Saved/Config/Windows/Engine.ini]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/gravelwars-pavlov/Saved/Config/Windows/Engine.ini]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[net.MaxRepArraySize:2048]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/gravelwars-pavlov/Saved/Config/Windows/Engine.ini]
+[2020.06.12-04.50.44:657][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/gravelwars-pavlov/Saved/Config/Windows/Scalability.ini]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/gravelwars-pavlov/Saved/Config/Windows/Scalability.ini]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[r.MSAACount:4]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/gravelwars-pavlov/Saved/Config/Windows/Scalability.ini]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2020.06.12-04.50.44:657][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/gravelwars-pavlov/Saved/Config/Windows/Scalability.ini]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2020.06.12-04.50.44:658][  0]LogConsoleManager: Warning: Setting the console variable 'r.Tonemapper.Quality' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByProjectSetting'. Value remains '0'
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/gravelwars-pavlov/Saved/Config/Windows/Scalability.ini]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:2500]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/gravelwars-pavlov/Saved/Config/Windows/Scalability.ini]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1]]
+[2020.06.12-04.50.44:658][  0]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2020.06.12-04.50.44:659][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2020.06.12-04.50.44:659][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2020.06.12-04.50.44:659][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.06.12-04.50.44:659][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2020.06.12-04.50.44:659][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2020.06.12-04.50.44:659][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/gravelwars-pavlov/Saved/Config/Windows/Scalability.ini]
+[2020.06.12-04.50.44:659][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.06.12-04.50.44:659][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.06.12-04.50.44:659][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.06.12-04.50.44:661][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.12-04.50.44:661][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.06.12-04.50.44:675][  0]LogHAL: Display: Platform has ~ 16 GB [17139773440 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.06.12-04.50.44:675][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2020.06.12-04.50.44:675][  0]LogInit: Going up to parent DeviceProfile []
+[2020.06.12-04.50.44:675][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/gravelwars-pavlov/Saved/Config/Windows/Scalability.ini]
+[2020.06.12-04.50.44:675][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.06.12-04.50.44:675][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.06.12-04.50.44:675][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/gravelwars-pavlov/Saved/Config/Windows/Scalability.ini]
+[2020.06.12-04.50.44:675][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2020.06.12-04.50.44:675][  0]LogConfig: Setting CVar [[r.MSAACount:4]]
+[2020.06.12-04.50.44:675][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/gravelwars-pavlov/Saved/Config/Windows/Scalability.ini]
+[2020.06.12-04.50.44:675][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2020.06.12-04.50.44:675][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2020.06.12-04.50.44:675][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2020.06.12-04.50.44:675][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2020.06.12-04.50.44:675][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.06.12-04.50.44:675][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2020.06.12-04.50.44:675][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2020.06.12-04.50.44:675][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2020.06.12-04.50.44:675][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.06.12-04.50.44:675][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2020.06.12-04.50.44:675][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2020.06.12-04.50.44:675][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.06.12-04.50.44:675][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.06.12-04.50.44:675][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.06.12-04.50.44:675][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.06.12-04.50.44:675][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.06.12-04.50.44:675][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.06.12-04.50.44:675][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.06.12-04.50.44:675][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/gravelwars-pavlov/Saved/Config/Windows/Scalability.ini]
+[2020.06.12-04.50.44:675][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.06.12-04.50.44:675][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2020.06.12-04.50.44:675][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2020.06.12-04.50.44:676][  0]LogConsoleManager: Warning: Setting the console variable 'r.Tonemapper.Quality' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByProjectSetting'. Value remains '0'
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.06.12-04.50.44:676][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/gravelwars-pavlov/Saved/Config/Windows/Scalability.ini]
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:2500]]
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.06.12-04.50.44:676][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/gravelwars-pavlov/Saved/Config/Windows/Scalability.ini]
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1]]
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2020.06.12-04.50.44:676][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/gravelwars-pavlov/Saved/Config/Windows/Scalability.ini]
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.06.12-04.50.44:676][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.06.12-04.50.44:676][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.06.12-04.50.44:677][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/gravelwars-pavlov/Saved/Config/Windows/Engine.ini]
+[2020.06.12-04.50.44:677][  0]LogInit: Computer: DESKTOP-GGCSE1E
+[2020.06.12-04.50.44:677][  0]LogInit: User: iamgoofball
+[2020.06.12-04.50.44:677][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.06.12-04.50.44:677][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.06.12-04.50.44:677][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2020.06.12-04.50.44:677][  0]LogMemory: Platform Memory Stats for Windows
+[2020.06.12-04.50.44:677][  0]LogMemory: Process Physical Memory: 121.27 MB used, 121.28 MB peak
+[2020.06.12-04.50.44:677][  0]LogMemory: Process Virtual Memory: 86.54 MB used, 86.54 MB peak
+[2020.06.12-04.50.44:677][  0]LogMemory: Physical Memory: 10478.23 MB used,  5867.54 MB free, 16345.76 MB total
+[2020.06.12-04.50.44:677][  0]LogMemory: Virtual Memory: 4635.23 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2020.06.12-04.50.44:720][  0]LogInit: Using OS detected language (en-US).
+[2020.06.12-04.50.44:720][  0]LogInit: Using OS detected locale (en-US).
+[2020.06.12-04.50.44:721][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.06.12-04.50.45:134][  0]LogStreaming: Display: Took  0.414s to InitEngineTextLocalization.
+[2020.06.12-04.50.45:984][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.06.12-04.50.46:001][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.06.12-04.50.46:017][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.06.12-04.50.46:034][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.06.12-04.50.46:051][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.06.12-04.50.46:064][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.06.12-04.50.46:084][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.06.12-04.50.46:099][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.06.12-04.50.46:107][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.06.12-04.50.46:201][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.12-04.50.46:201][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.12-04.50.46:201][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.12-04.50.46:201][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.12-04.50.46:201][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.12-04.50.46:201][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.12-04.50.46:201][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.12-04.50.46:201][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.12-04.50.46:201][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.12-04.50.46:201][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.12-04.50.46:201][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.12-04.50.46:201][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.12-04.50.46:201][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.12-04.50.46:201][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.12-04.50.46:201][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.12-04.50.46:202][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.12-04.50.46:202][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.12-04.50.46:202][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.12-04.50.46:205][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.06.12-04.50.46:271][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.06.12-04.50.46:271][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.06.12-04.50.46:297][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.06.12-04.50.46:297][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.06.12-04.50.46:313][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.06.12-04.50.46:331][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.06.12-04.50.46:346][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.06.12-04.50.46:362][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.06.12-04.50.46:421][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.06.12-04.50.46:421][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.06.12-04.50.46:421][  0]LogTargetPlatformManager: Display: Building Assets For WindowsNoEditor
+[2020.06.12-04.50.46:421][  0]LogTargetPlatformManager: Display: Building Assets For LinuxServer
+[2020.06.12-04.50.46:497][  0]LogShaderCompilers: Guid format shader working directory is 13 characters bigger than the processId version (../../../../../gravelwars-pavlov/Intermediate/Shaders/WorkingDirectory/19516/).
+[2020.06.12-04.50.46:497][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/iamgo/AppData/Local/Temp/UnrealShaderWorkingDir/65D8FC0544D4E194AF020C8315FA90BE/'.
+[2020.06.12-04.50.46:500][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.06.12-04.50.46:500][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.06.12-04.50.46:500][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.06.12-04.50.46:971][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.06.12-04.50.47:053][  0]LogDerivedDataCache: Loaded boot cache 0.08s 74MB C:/Users/iamgo/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.06.12-04.50.47:053][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/iamgo/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2020.06.12-04.50.47:054][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../gravelwars-pavlov/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.06.12-04.50.47:054][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.06.12-04.50.47:054][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../gravelwars-pavlov/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.06.12-04.50.47:054][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.06.12-04.50.47:071][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.06.12-04.50.47:071][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.06.12-04.50.47:071][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.06.12-04.50.47:084][  0]LogDerivedDataCache: Using Local data cache path C:/Users/iamgo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.06.12-04.50.47:084][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.06.12-04.50.47:084][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.06.12-04.50.47:101][  0]LogAssetRegistry: FAssetRegistry took 0.0140 seconds to start up
+[2020.06.12-04.50.47:531][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.12-04.50.47:569][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.06.12-04.50.47:574][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.06.12-04.50.47:574][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.06.12-04.50.47:574][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.06.12-04.50.47:574][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.06.12-04.50.47:575][  0]LogNetVersion: Pavlov 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1000105296)
+[2020.06.12-04.50.48:047][  0]LogPackageLocalizationCache: Processed 15 localized package path(s) for 2 prioritized culture(s) in 0.141858 seconds
+[2020.06.12-04.50.48:156][  0]LogCollectionManager: Loaded 0 collections in 0.001065 seconds
+[2020.06.12-04.50.48:186][  0]LogFileCache: Scanning file cache for directory 'F:/gravelwars-pavlov/Saved/Collections/' took 0.02s
+[2020.06.12-04.50.48:186][  0]LogFileCache: Scanning file cache for directory 'F:/gravelwars-pavlov/Content/Developers/iamgoofball/Collections/' took 0.01s
+[2020.06.12-04.50.48:186][  0]LogFileCache: Scanning file cache for directory 'F:/gravelwars-pavlov/Content/Collections/' took 0.00s
+[2020.06.12-04.50.48:186][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.06.12-04.50.48:186][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000082 seconds (updated 0 objects)
+[2020.06.12-04.50.48:391][  0]LogSteamAudio: FSteamAudioModule Startup
+[2020.06.12-04.50.48:391][  0]LogSteamAudio: Attempting to load ../../../Engine/Binaries/ThirdParty/Phonon/Win64/tanrt64.dll
+[2020.06.12-04.50.48:403][  0]LogSteamAudio: Loaded ../../../Engine/Binaries/ThirdParty/Phonon/Win64/tanrt64.dll.
+[2020.06.12-04.50.48:403][  0]LogSteamAudio: Attempting to load ../../../Engine/Binaries/ThirdParty/Phonon/Win64/GPUUtilities.dll
+[2020.06.12-04.50.48:405][  0]LogSteamAudio: Loaded ../../../Engine/Binaries/ThirdParty/Phonon/Win64/GPUUtilities.dll.
+[2020.06.12-04.50.48:405][  0]LogSteamAudio: Attempting to load ../../../Engine/Binaries/ThirdParty/Phonon/Win64/phonon.dll
+[2020.06.12-04.50.48:409][  0]LogSteamAudio: Loaded ../../../Engine/Binaries/ThirdParty/Phonon/Win64/phonon.dll.
+[2020.06.12-04.50.48:444][  0]SourceControl: Source control is disabled
+[2020.06.12-04.50.48:444][  0]SourceControl: Source control is disabled
+[2020.06.12-04.50.48:446][  0]SourceControl: Source control is disabled
+[2020.06.12-04.50.48:448][  0]SourceControl: Source control is disabled
+[2020.06.12-04.50.48:542][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.06.12-04.50.48:996][  0]LogOcInput: OculusInput pre-init called
+[2020.06.12-04.50.49:026][  0]LogUObjectArray: 45064 objects as part of root set at end of initial load.
+[2020.06.12-04.50.49:026][  0]LogUObjectAllocator: 8044120 out of 0 bytes used by permanent object pool.
+[2020.06.12-04.50.49:026][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.06.12-04.50.49:089][  0]LogInit: Executing Class /Script/UnrealEd.CookCommandlet
+[2020.06.12-04.50.49:090][  0]LogInit: Initializing Editor Engine...
+[2020.06.12-04.50.49:090][  0]LogEngine: Initializing Engine...
+[2020.06.12-04.50.49:092][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.06.12-04.50.49:092][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.06.12-04.50.49:092][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.06.12-04.50.49:092][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.06.12-04.50.49:184][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.06.12-04.50.49:196][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.06.12-04.50.49:197][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.06.12-04.50.49:279][  0]LogDerivedDataCache: Saved boot cache 0.08s 75MB C:/Users/iamgo/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.06.12-04.50.49:286][  0]LogInit: Texture streaming: Disabled
+[2020.06.12-04.50.49:374][  0]LogInit: Initializing Editor Engine Completed
+[2020.06.12-04.50.49:374][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.06.12-04.50.49:374][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.06.12-04.50.49:374][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.06.12-04.50.49:375][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.06.12-04.50.49:375][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.06.12-04.50.49:521][  0]CustomMapToolsLog: Initializing Pavlov's workshop editor plugin
+[2020.06.12-04.50.49:629][  0]CustomMapToolsLog: Visiting ../../../../../gravelwars-pavlov/Content/CustomMaps/UGC2127530177
+[2020.06.12-04.50.49:629][  0]CustomMapToolsLog: Loaded UGC ID:2127530177
+[2020.06.12-04.50.49:629][  0]CustomMapToolsLog: Visiting ../../../../../gravelwars-pavlov/Content/CustomMaps/UGC2127530177
+[2020.06.12-04.50.49:643][  0]LogClass: Warning: BoolProperty FPavlovGameModeProperties::bNoTeams is not initialized properly
+[2020.06.12-04.50.49:644][  0]LogClass: Warning: BoolProperty FPavlovGameModeProperties::bForceNoScoring is not initialized properly
+[2020.06.12-04.50.49:644][  0]LogClass: Warning: BoolProperty FPavlovGameModeProperties::bKeepPawnIfAlive is not initialized properly
+[2020.06.12-04.50.49:644][  0]LogClass: Warning: BoolProperty FPavlovGameModeProperties::bDynamicSpawns is not initialized properly
+[2020.06.12-04.50.49:644][  0]LogClass: Warning: BoolProperty FPavlovGameModeProperties::bSpawnGhostOnLogin is not initialized properly
+[2020.06.12-04.50.49:644][  0]LogClass: Display: 5 Uninitialized script stuct members found
+[2020.06.12-04.50.49:645][  0]LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bNoTeams is not initialized properly
+[2020.06.12-04.50.49:645][  0]LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bForceNoScoring is not initialized properly
+[2020.06.12-04.50.49:645][  0]LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bKeepPawnIfAlive is not initialized properly
+[2020.06.12-04.50.49:646][  0]LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bDynamicSpawns is not initialized properly
+[2020.06.12-04.50.49:646][  0]LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bSpawnGhostOnLogin is not initialized properly
+[2020.06.12-04.50.49:657][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.06.12-04.50.49:657][  0]LogCook: Display: Mobile HDR setting 0
+[2020.06.12-04.50.49:657][  0]LogCook: Display: Creating asset registry
+[2020.06.12-04.50.49:887][  0]LogCook: Display: Discovering localized assets
+[2020.06.12-04.50.49:940][  0]LogCook: Display: Cooked content cleared for platform WindowsNoEditor
+[2020.06.12-04.50.50:014][  0]LogCook: Display: Unable to read previous cook inisettings for platform WindowsNoEditor invalidating cook
+[2020.06.12-04.50.50:081][  0]LogCook: Display: Cooked content cleared for platform LinuxServer
+[2020.06.12-04.50.50:141][  0]LogCook: Display: Unable to read previous cook inisettings for platform LinuxServer invalidating cook
+[2020.06.12-04.50.50:206][  0]LogCook: Display: Sandbox cleanup took 0.266 seconds for platforms WindowsNoEditor LinuxServer  iterative false
+[2020.06.12-04.50.50:860][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.06.12-04.50.51:760][  0]LogCook: Display: Cooked packages 0 Packages Remain 163 Total 163
+[2020.06.12-04.50.51:976][  0]LogCook: Display: Cooked packages 50 Packages Remain 162 Total 212
+[2020.06.12-04.50.52:070][  0]LogAIModule: Creating AISystem for world Template_Default
+[2020.06.12-04.50.52:294][  0]LogCook: Display: Cooked packages 100 Packages Remain 162 Total 262
+[2020.06.12-04.50.52:515][  0]LogCook: Display: Cooked packages 150 Packages Remain 161 Total 311
+[2020.06.12-04.50.52:684][  0]LogCook: Display: Cooked packages 154 Packages Remain 160 Total 314
+[2020.06.12-04.50.52:693][  0]LogCook: Display: Cooked packages 155 Packages Remain 159 Total 314
+[2020.06.12-04.50.52:703][  0]LogCook: Display: Cooked packages 156 Packages Remain 158 Total 314
+[2020.06.12-04.50.52:712][  0]LogCook: Display: Cooked packages 157 Packages Remain 157 Total 314
+[2020.06.12-04.50.52:730][  0]LogCook: Display: Cooked packages 159 Packages Remain 156 Total 315
+[2020.06.12-04.50.52:738][  0]LogCook: Display: Cooked packages 160 Packages Remain 155 Total 315
+[2020.06.12-04.50.52:740][  0]LogCook: Display: Cooked packages 160 Packages Remain 154 Total 314
+[2020.06.12-04.50.52:741][  0]LogCook: Display: Cooked packages 160 Packages Remain 153 Total 313
+[2020.06.12-04.50.52:741][  0]LogCook: Display: Cooked packages 160 Packages Remain 152 Total 312
+[2020.06.12-04.50.52:741][  0]LogCook: Display: Cooked packages 160 Packages Remain 151 Total 311
+[2020.06.12-04.50.52:741][  0]LogCook: Display: Cooked packages 160 Packages Remain 150 Total 310
+[2020.06.12-04.50.52:741][  0]LogCook: Display: Cooked packages 160 Packages Remain 149 Total 309
+[2020.06.12-04.50.52:741][  0]LogCook: Display: Cooked packages 160 Packages Remain 148 Total 308
+[2020.06.12-04.50.52:742][  0]LogCook: Display: Cooked packages 160 Packages Remain 147 Total 307
+[2020.06.12-04.50.52:742][  0]LogCook: Display: Cooked packages 160 Packages Remain 146 Total 306
+[2020.06.12-04.50.52:742][  0]LogCook: Display: Cooked packages 160 Packages Remain 145 Total 305
+[2020.06.12-04.50.52:742][  0]LogCook: Display: Cooked packages 160 Packages Remain 144 Total 304
+[2020.06.12-04.50.52:742][  0]LogCook: Display: Cooked packages 160 Packages Remain 143 Total 303
+[2020.06.12-04.50.52:742][  0]LogCook: Display: Cooked packages 160 Packages Remain 142 Total 302
+[2020.06.12-04.50.52:743][  0]LogCook: Display: Cooked packages 160 Packages Remain 141 Total 301
+[2020.06.12-04.50.52:743][  0]LogCook: Display: Cooked packages 160 Packages Remain 140 Total 300
+[2020.06.12-04.50.52:743][  0]LogCook: Display: Cooked packages 160 Packages Remain 139 Total 299
+[2020.06.12-04.50.52:743][  0]LogCook: Display: Cooked packages 160 Packages Remain 138 Total 298
+[2020.06.12-04.50.52:743][  0]LogCook: Display: Cooked packages 160 Packages Remain 137 Total 297
+[2020.06.12-04.50.52:743][  0]LogCook: Display: Cooked packages 160 Packages Remain 136 Total 296
+[2020.06.12-04.50.52:743][  0]LogCook: Display: Cooked packages 160 Packages Remain 135 Total 295
+[2020.06.12-04.50.52:743][  0]LogCook: Display: Cooked packages 160 Packages Remain 134 Total 294
+[2020.06.12-04.50.52:744][  0]LogCook: Display: Cooked packages 160 Packages Remain 133 Total 293
+[2020.06.12-04.50.52:744][  0]LogCook: Display: Cooked packages 160 Packages Remain 132 Total 292
+[2020.06.12-04.50.52:744][  0]LogCook: Display: Cooked packages 160 Packages Remain 131 Total 291
+[2020.06.12-04.50.52:744][  0]LogCook: Display: Cooked packages 160 Packages Remain 130 Total 290
+[2020.06.12-04.50.52:744][  0]LogCook: Display: Cooked packages 160 Packages Remain 129 Total 289
+[2020.06.12-04.50.52:744][  0]LogCook: Display: Cooked packages 160 Packages Remain 128 Total 288
+[2020.06.12-04.50.52:744][  0]LogCook: Display: Cooked packages 160 Packages Remain 127 Total 287
+[2020.06.12-04.50.52:744][  0]LogCook: Display: Cooked packages 160 Packages Remain 126 Total 286
+[2020.06.12-04.50.52:745][  0]LogCook: Display: Cooked packages 160 Packages Remain 125 Total 285
+[2020.06.12-04.50.52:745][  0]LogCook: Display: Cooked packages 160 Packages Remain 124 Total 284
+[2020.06.12-04.50.52:745][  0]LogCook: Display: Cooked packages 160 Packages Remain 123 Total 283
+[2020.06.12-04.50.52:745][  0]LogCook: Display: Cooked packages 160 Packages Remain 122 Total 282
+[2020.06.12-04.50.53:452][  0]LogCook: Display: Cooked packages 160 Packages Remain 121 Total 281
+[2020.06.12-04.50.53:452][  0]LogCook: Display: Cooked packages 160 Packages Remain 120 Total 280
+[2020.06.12-04.50.53:452][  0]LogCook: Display: Cooked packages 160 Packages Remain 119 Total 279
+[2020.06.12-04.50.53:452][  0]LogCook: Display: Cooked packages 160 Packages Remain 118 Total 278
+[2020.06.12-04.50.53:452][  0]LogCook: Display: Cooked packages 160 Packages Remain 117 Total 277
+[2020.06.12-04.50.53:452][  0]LogCook: Display: Cooked packages 160 Packages Remain 116 Total 276
+[2020.06.12-04.50.53:452][  0]LogCook: Display: Cooked packages 160 Packages Remain 115 Total 275
+[2020.06.12-04.50.53:453][  0]LogCook: Display: Cooked packages 160 Packages Remain 114 Total 274
+[2020.06.12-04.50.53:453][  0]LogCook: Display: Cooked packages 160 Packages Remain 113 Total 273
+[2020.06.12-04.50.53:453][  0]LogCook: Display: Cooked packages 160 Packages Remain 112 Total 272
+[2020.06.12-04.50.53:453][  0]LogCook: Display: Cooked packages 160 Packages Remain 111 Total 271
+[2020.06.12-04.50.53:453][  0]LogCook: Display: Cooked packages 160 Packages Remain 110 Total 270
+[2020.06.12-04.50.53:453][  0]LogCook: Display: Cooked packages 160 Packages Remain 109 Total 269
+[2020.06.12-04.50.53:453][  0]LogCook: Display: Cooked packages 160 Packages Remain 108 Total 268
+[2020.06.12-04.50.53:453][  0]LogCook: Display: Cooked packages 160 Packages Remain 107 Total 267
+[2020.06.12-04.50.53:454][  0]LogCook: Display: Cooked packages 160 Packages Remain 106 Total 266
+[2020.06.12-04.50.53:454][  0]LogCook: Display: Cooked packages 160 Packages Remain 105 Total 265
+[2020.06.12-04.50.53:454][  0]LogCook: Display: Cooked packages 160 Packages Remain 104 Total 264
+[2020.06.12-04.50.53:454][  0]LogCook: Display: Cooked packages 160 Packages Remain 103 Total 263
+[2020.06.12-04.50.53:454][  0]LogCook: Display: Cooked packages 160 Packages Remain 102 Total 262
+[2020.06.12-04.50.53:454][  0]LogCook: Display: Cooked packages 160 Packages Remain 101 Total 261
+[2020.06.12-04.50.53:454][  0]LogCook: Display: Cooked packages 160 Packages Remain 100 Total 260
+[2020.06.12-04.50.53:454][  0]LogCook: Display: Cooked packages 160 Packages Remain 99 Total 259
+[2020.06.12-04.50.53:455][  0]LogCook: Display: Cooked packages 160 Packages Remain 98 Total 258
+[2020.06.12-04.50.53:455][  0]LogCook: Display: Cooked packages 160 Packages Remain 97 Total 257
+[2020.06.12-04.50.53:455][  0]LogCook: Display: Cooked packages 160 Packages Remain 96 Total 256
+[2020.06.12-04.50.53:455][  0]LogCook: Display: Cooked packages 160 Packages Remain 95 Total 255
+[2020.06.12-04.50.53:455][  0]LogCook: Display: Cooked packages 160 Packages Remain 94 Total 254
+[2020.06.12-04.50.53:455][  0]LogCook: Display: Cooked packages 160 Packages Remain 93 Total 253
+[2020.06.12-04.50.53:455][  0]LogCook: Display: Cooked packages 160 Packages Remain 92 Total 252
+[2020.06.12-04.50.53:456][  0]LogCook: Display: Cooked packages 160 Packages Remain 91 Total 251
+[2020.06.12-04.50.53:456][  0]LogCook: Display: Cooked packages 160 Packages Remain 90 Total 250
+[2020.06.12-04.50.53:456][  0]LogCook: Display: Cooked packages 160 Packages Remain 89 Total 249
+[2020.06.12-04.50.53:456][  0]LogCook: Display: Cooked packages 160 Packages Remain 88 Total 248
+[2020.06.12-04.50.53:456][  0]LogCook: Display: Cooked packages 160 Packages Remain 87 Total 247
+[2020.06.12-04.50.53:456][  0]LogCook: Display: Cooked packages 160 Packages Remain 86 Total 246
+[2020.06.12-04.50.53:456][  0]LogCook: Display: Cooked packages 160 Packages Remain 85 Total 245
+[2020.06.12-04.50.53:456][  0]LogCook: Display: Cooked packages 160 Packages Remain 84 Total 244
+[2020.06.12-04.50.53:457][  0]LogCook: Display: Cooked packages 160 Packages Remain 83 Total 243
+[2020.06.12-04.50.53:457][  0]LogCook: Display: Cooked packages 160 Packages Remain 82 Total 242
+[2020.06.12-04.50.53:457][  0]LogCook: Display: Cooked packages 160 Packages Remain 81 Total 241
+[2020.06.12-04.50.53:458][  0]LogCook: Display: Cooked packages 160 Packages Remain 80 Total 240
+[2020.06.12-04.50.53:458][  0]LogCook: Display: Cooked packages 160 Packages Remain 79 Total 239
+[2020.06.12-04.50.53:459][  0]LogCook: Display: Cooked packages 160 Packages Remain 78 Total 238
+[2020.06.12-04.50.53:459][  0]LogCook: Display: Cooked packages 160 Packages Remain 77 Total 237
+[2020.06.12-04.50.53:459][  0]LogCook: Display: Cooked packages 160 Packages Remain 76 Total 236
+[2020.06.12-04.50.53:459][  0]LogCook: Display: Cooked packages 160 Packages Remain 75 Total 235
+[2020.06.12-04.50.53:459][  0]LogCook: Display: Cooked packages 160 Packages Remain 74 Total 234
+[2020.06.12-04.50.53:459][  0]LogCook: Display: Cooked packages 160 Packages Remain 73 Total 233
+[2020.06.12-04.50.53:459][  0]LogCook: Display: Cooked packages 160 Packages Remain 72 Total 232
+[2020.06.12-04.50.53:460][  0]LogCook: Display: Cooked packages 160 Packages Remain 71 Total 231
+[2020.06.12-04.50.53:460][  0]LogCook: Display: Cooked packages 160 Packages Remain 70 Total 230
+[2020.06.12-04.50.53:460][  0]LogCook: Display: Cooked packages 160 Packages Remain 69 Total 229
+[2020.06.12-04.50.53:461][  0]LogCook: Display: Cooked packages 160 Packages Remain 68 Total 228
+[2020.06.12-04.50.53:461][  0]LogCook: Display: Cooked packages 160 Packages Remain 67 Total 227
+[2020.06.12-04.50.53:461][  0]LogCook: Display: Cooked packages 160 Packages Remain 66 Total 226
+[2020.06.12-04.50.53:461][  0]LogCook: Display: Cooked packages 160 Packages Remain 65 Total 225
+[2020.06.12-04.50.53:461][  0]LogCook: Display: Cooked packages 160 Packages Remain 64 Total 224
+[2020.06.12-04.50.53:461][  0]LogCook: Display: Cooked packages 160 Packages Remain 63 Total 223
+[2020.06.12-04.50.53:461][  0]LogCook: Display: Cooked packages 160 Packages Remain 62 Total 222
+[2020.06.12-04.50.53:461][  0]LogCook: Display: Cooked packages 160 Packages Remain 61 Total 221
+[2020.06.12-04.50.53:461][  0]LogCook: Display: Cooked packages 160 Packages Remain 60 Total 220
+[2020.06.12-04.50.53:462][  0]LogCook: Display: Cooked packages 160 Packages Remain 59 Total 219
+[2020.06.12-04.50.53:462][  0]LogCook: Display: Cooked packages 160 Packages Remain 58 Total 218
+[2020.06.12-04.50.53:462][  0]LogCook: Display: Cooked packages 160 Packages Remain 57 Total 217
+[2020.06.12-04.50.53:462][  0]LogCook: Display: Cooked packages 160 Packages Remain 56 Total 216
+[2020.06.12-04.50.53:462][  0]LogCook: Display: Cooked packages 160 Packages Remain 55 Total 215
+[2020.06.12-04.50.53:462][  0]LogCook: Display: Cooked packages 160 Packages Remain 54 Total 214
+[2020.06.12-04.50.53:462][  0]LogCook: Display: Cooked packages 160 Packages Remain 53 Total 213
+[2020.06.12-04.50.53:462][  0]LogCook: Display: Cooked packages 160 Packages Remain 52 Total 212
+[2020.06.12-04.50.53:462][  0]LogCook: Display: Cooked packages 160 Packages Remain 51 Total 211
+[2020.06.12-04.50.53:463][  0]LogCook: Display: Cooked packages 160 Packages Remain 50 Total 210
+[2020.06.12-04.50.53:463][  0]LogCook: Display: Cooked packages 160 Packages Remain 49 Total 209
+[2020.06.12-04.50.53:463][  0]LogCook: Display: Cooked packages 160 Packages Remain 48 Total 208
+[2020.06.12-04.50.53:463][  0]LogCook: Display: Cooked packages 160 Packages Remain 47 Total 207
+[2020.06.12-04.50.53:463][  0]LogCook: Display: Cooked packages 160 Packages Remain 46 Total 206
+[2020.06.12-04.50.53:463][  0]LogCook: Display: Cooked packages 160 Packages Remain 45 Total 205
+[2020.06.12-04.50.53:464][  0]LogCook: Display: Cooked packages 160 Packages Remain 44 Total 204
+[2020.06.12-04.50.53:464][  0]LogCook: Display: Cooked packages 160 Packages Remain 43 Total 203
+[2020.06.12-04.50.53:464][  0]LogCook: Display: Cooked packages 160 Packages Remain 42 Total 202
+[2020.06.12-04.50.53:464][  0]LogCook: Display: Cooked packages 160 Packages Remain 41 Total 201
+[2020.06.12-04.50.53:465][  0]LogCook: Display: Cooked packages 160 Packages Remain 40 Total 200
+[2020.06.12-04.50.53:465][  0]LogCook: Display: Cooked packages 160 Packages Remain 39 Total 199
+[2020.06.12-04.50.53:465][  0]LogCook: Display: Cooked packages 160 Packages Remain 38 Total 198
+[2020.06.12-04.50.53:465][  0]LogCook: Display: Cooked packages 160 Packages Remain 37 Total 197
+[2020.06.12-04.50.53:465][  0]LogCook: Display: Cooked packages 160 Packages Remain 36 Total 196
+[2020.06.12-04.50.53:465][  0]LogCook: Display: Cooked packages 160 Packages Remain 35 Total 195
+[2020.06.12-04.50.53:465][  0]LogCook: Display: Cooked packages 160 Packages Remain 34 Total 194
+[2020.06.12-04.50.53:466][  0]LogCook: Display: Cooked packages 160 Packages Remain 33 Total 193
+[2020.06.12-04.50.53:466][  0]LogCook: Display: Cooked packages 160 Packages Remain 32 Total 192
+[2020.06.12-04.50.53:466][  0]LogCook: Display: Cooked packages 160 Packages Remain 31 Total 191
+[2020.06.12-04.50.53:466][  0]LogCook: Display: Cooked packages 160 Packages Remain 30 Total 190
+[2020.06.12-04.50.53:466][  0]LogCook: Display: Cooked packages 160 Packages Remain 29 Total 189
+[2020.06.12-04.50.53:466][  0]LogCook: Display: Cooked packages 160 Packages Remain 28 Total 188
+[2020.06.12-04.50.53:466][  0]LogCook: Display: Cooked packages 160 Packages Remain 27 Total 187
+[2020.06.12-04.50.53:467][  0]LogCook: Display: Cooked packages 160 Packages Remain 26 Total 186
+[2020.06.12-04.50.53:467][  0]LogCook: Display: Cooked packages 160 Packages Remain 25 Total 185
+[2020.06.12-04.50.53:467][  0]LogCook: Display: Cooked packages 160 Packages Remain 24 Total 184
+[2020.06.12-04.50.53:467][  0]LogCook: Display: Cooked packages 160 Packages Remain 23 Total 183
+[2020.06.12-04.50.53:467][  0]LogCook: Display: Cooked packages 160 Packages Remain 22 Total 182
+[2020.06.12-04.50.53:467][  0]LogCook: Display: Cooked packages 160 Packages Remain 21 Total 181
+[2020.06.12-04.50.53:468][  0]LogCook: Display: Cooked packages 160 Packages Remain 20 Total 180
+[2020.06.12-04.50.53:505][  0]LogCook: Display: Cooked packages 174 Packages Remain 19 Total 193
+[2020.06.12-04.50.53:519][  0]LogAIModule: Creating AISystem for world Entry
+[2020.06.12-04.50.53:534][  0]LogCook: Display: Cooked packages 179 Packages Remain 18 Total 197
+[2020.06.12-04.50.53:822][  0]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.06.12-04.50.53:822][  0]LogUObjectGlobals: Warning: Failed to load '/Script/UmbraComputation': Can't find file '/Script/UmbraComputation'
+[2020.06.12-04.50.53:822][  0]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading ../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Proxies/BP_HandProxyExample.uasset.
+[2020.06.12-04.50.53:822][  0]LogUObjectGlobals: Warning: Failed to load '../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Proxies/BP_HandProxyExample.uasset': Can't find file for asset '/Script/UmbraComputation' while loading ../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Proxies/BP_HandProxyExample.uasset.
+[2020.06.12-04.50.53:823][  0]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.06.12-04.50.53:823][  0]LogUObjectGlobals: Warning: Failed to load '/Script/UmbraComputation': Can't find file '/Script/UmbraComputation'
+[2020.06.12-04.50.53:824][  0]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading ../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Proxies/BP_HandProxyExample.uasset.
+[2020.06.12-04.50.53:824][  0]LogUObjectGlobals: Warning: Failed to load '../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Proxies/BP_HandProxyExample.uasset': Can't find file for asset '/Script/UmbraComputation' while loading ../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Proxies/BP_HandProxyExample.uasset.
+[2020.06.12-04.50.53:825][  0]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.06.12-04.50.53:825][  0]LogUObjectGlobals: Warning: Failed to load '/Script/UmbraComputation': Can't find file '/Script/UmbraComputation'
+[2020.06.12-04.50.53:826][  0]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading ../../../../../gravelwars-pavlov/Content/CustomMaps/UGC2127530177/BP_PlayerProxyGravel.uasset.
+[2020.06.12-04.50.53:826][  0]LogUObjectGlobals: Warning: Failed to load '../../../../../gravelwars-pavlov/Content/CustomMaps/UGC2127530177/BP_PlayerProxyGravel.uasset': Can't find file for asset '/Script/UmbraComputation' while loading ../../../../../gravelwars-pavlov/Content/CustomMaps/UGC2127530177/BP_PlayerProxyGravel.uasset.
+[2020.06.12-04.50.53:826][  0]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.06.12-04.50.53:826][  0]LogUObjectGlobals: Warning: Failed to load '/Script/UmbraComputation': Can't find file '/Script/UmbraComputation'
+[2020.06.12-04.50.53:827][  0]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading ../../../../../gravelwars-pavlov/Content/CustomMaps/UGC2127530177/BP_PlayerProxyGravel.uasset.
+[2020.06.12-04.50.53:827][  0]LogUObjectGlobals: Warning: Failed to load '../../../../../gravelwars-pavlov/Content/CustomMaps/UGC2127530177/BP_PlayerProxyGravel.uasset': Can't find file for asset '/Script/UmbraComputation' while loading ../../../../../gravelwars-pavlov/Content/CustomMaps/UGC2127530177/BP_PlayerProxyGravel.uasset.
+[2020.06.12-04.50.53:828][  0]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.06.12-04.50.53:828][  0]LoadErrors: Failed to load /Game/CustomMaps/UGC2127530177/BP_PlayerProxyGravel.BP_PlayerProxyGravel_C Referenced by Default__BP_HandProxyExample_C
+[2020.06.12-04.50.53:828][  0]LogUObjectGlobals: Warning: Failed to load '/Script/UmbraComputation': Can't find file '/Script/UmbraComputation'
+[2020.06.12-04.50.53:828][  0]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading ../../../../../gravelwars-pavlov/Content/CustomMaps/UGC2127530177/BP_PlayerProxyGravel.uasset.
+[2020.06.12-04.50.53:829][  0]LoadErrors: Failed to load /Game/CustomMaps/UGC2127530177/BP_PlayerProxyGravel.BP_PlayerProxyGravel_C Referenced by Default__BP_HandProxyExample_C
+[2020.06.12-04.50.53:829][  0]LogUObjectGlobals: Warning: Failed to load '../../../../../gravelwars-pavlov/Content/CustomMaps/UGC2127530177/BP_PlayerProxyGravel.uasset': Can't find file for asset '/Script/UmbraComputation' while loading ../../../../../gravelwars-pavlov/Content/CustomMaps/UGC2127530177/BP_PlayerProxyGravel.uasset.
+[2020.06.12-04.50.53:829][  0]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.06.12-04.50.53:829][  0]LoadErrors: Failed to load /Script/UmbraComputation.UmbraComponentSettings Referenced by Default__BP_HandProxyExample_C
+[2020.06.12-04.50.53:829][  0]LogUObjectGlobals: Warning: Failed to load '/Script/UmbraComputation': Can't find file '/Script/UmbraComputation'
+[2020.06.12-04.50.53:830][  0]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading ../../../../../gravelwars-pavlov/Content/CustomMaps/UGC2127530177/BP_PlayerProxyGravel.uasset.
+[2020.06.12-04.50.53:830][  0]LoadErrors: Failed to load /Script/UmbraComputation.UmbraComponentSettings Referenced by Default__BP_HandProxyExample_C
+[2020.06.12-04.50.53:830][  0]LogUObjectGlobals: Warning: Failed to load '../../../../../gravelwars-pavlov/Content/CustomMaps/UGC2127530177/BP_PlayerProxyGravel.uasset': Can't find file for asset '/Script/UmbraComputation' while loading ../../../../../gravelwars-pavlov/Content/CustomMaps/UGC2127530177/BP_PlayerProxyGravel.uasset.
+[2020.06.12-04.50.53:831][  0]LogLinker: Warning: Unable to load UmbraComponentSettings_0 with outer BP_HandProxyExample_C /CustomMapTools/Examples/Proxies/BP_HandProxyExample.Default__BP_HandProxyExample_C because its class does not exist
+[2020.06.12-04.50.53:840][  0]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.06.12-04.50.53:840][  0]LogUObjectGlobals: Warning: Failed to load '/Script/UmbraComputation': Can't find file '/Script/UmbraComputation'
+[2020.06.12-04.50.53:841][  0]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading ../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Items/Flashlight/ModItem_Flashlight.uasset.
+[2020.06.12-04.50.53:841][  0]LogUObjectGlobals: Warning: Failed to load '../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Items/Flashlight/ModItem_Flashlight.uasset': Can't find file for asset '/Script/UmbraComputation' while loading ../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Items/Flashlight/ModItem_Flashlight.uasset.
+[2020.06.12-04.50.53:844][  0]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.06.12-04.50.53:845][  0]LogUObjectGlobals: Warning: Failed to load '/Script/UmbraComputation': Can't find file '/Script/UmbraComputation'
+[2020.06.12-04.50.53:845][  0]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading ../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Items/Flashlight/ModItem_Flashlight.uasset.
+[2020.06.12-04.50.53:845][  0]LogUObjectGlobals: Warning: Failed to load '../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Items/Flashlight/ModItem_Flashlight.uasset': Can't find file for asset '/Script/UmbraComputation' while loading ../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Items/Flashlight/ModItem_Flashlight.uasset.
+[2020.06.12-04.50.53:847][  0]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.06.12-04.50.53:847][  0]LogUObjectGlobals: Warning: Failed to load '/Script/UmbraComputation': Can't find file '/Script/UmbraComputation'
+[2020.06.12-04.50.53:847][  0]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading ../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Items/CustomItemTableExample.uasset.
+[2020.06.12-04.50.53:848][  0]LogUObjectGlobals: Warning: Failed to load '../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Items/CustomItemTableExample.uasset': Can't find file for asset '/Script/UmbraComputation' while loading ../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Items/CustomItemTableExample.uasset.
+[2020.06.12-04.50.53:848][  0]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.06.12-04.50.53:848][  0]LogUObjectGlobals: Warning: Failed to load '/Script/UmbraComputation': Can't find file '/Script/UmbraComputation'
+[2020.06.12-04.50.53:849][  0]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading ../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Items/CustomItemTableExample.uasset.
+[2020.06.12-04.50.53:849][  0]LogUObjectGlobals: Warning: Failed to load '../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Items/CustomItemTableExample.uasset': Can't find file for asset '/Script/UmbraComputation' while loading ../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Items/CustomItemTableExample.uasset.
+[2020.06.12-04.50.53:852][  0]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.06.12-04.50.53:852][  0]LoadErrors: Failed to load /Game/CustomMaps/UGC2127530177/CMP_GlobalInfoGravel.CMP_GlobalInfoGravel_C Referenced by StaticMesh_GEN_VARIABLE
+[2020.06.12-04.50.53:852][  0]LogUObjectGlobals: Warning: Failed to load '/Script/UmbraComputation': Can't find file '/Script/UmbraComputation'
+[2020.06.12-04.50.53:852][  0]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading ../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Items/CustomItemTableExample.uasset.
+[2020.06.12-04.50.53:853][  0]LoadErrors: Failed to load /Game/CustomMaps/UGC2127530177/CMP_GlobalInfoGravel.CMP_GlobalInfoGravel_C Referenced by StaticMesh_GEN_VARIABLE
+[2020.06.12-04.50.53:853][  0]LogUObjectGlobals: Warning: Failed to load '../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Items/CustomItemTableExample.uasset': Can't find file for asset '/Script/UmbraComputation' while loading ../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Items/CustomItemTableExample.uasset.
+[2020.06.12-04.50.53:853][  0]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.06.12-04.50.53:853][  0]LoadErrors: Failed to load /Script/UmbraComputation.UmbraComponentSettings Referenced by StaticMesh_GEN_VARIABLE
+[2020.06.12-04.50.53:853][  0]LogUObjectGlobals: Warning: Failed to load '/Script/UmbraComputation': Can't find file '/Script/UmbraComputation'
+[2020.06.12-04.50.53:854][  0]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading ../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Items/CustomItemTableExample.uasset.
+[2020.06.12-04.50.53:854][  0]LoadErrors: Failed to load /Script/UmbraComputation.UmbraComponentSettings Referenced by StaticMesh_GEN_VARIABLE
+[2020.06.12-04.50.53:854][  0]LogUObjectGlobals: Warning: Failed to load '../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Items/CustomItemTableExample.uasset': Can't find file for asset '/Script/UmbraComputation' while loading ../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Items/CustomItemTableExample.uasset.
+[2020.06.12-04.50.53:855][  0]LogLinker: Warning: Unable to load UmbraComponentSettings_0 with outer StaticMeshComponent /CustomMapTools/Examples/Items/Flashlight/ModItem_Flashlight.ModItem_Flashlight_C:StaticMesh_GEN_VARIABLE because its class does not exist
+[2020.06.12-04.50.53:891][  0]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.06.12-04.50.53:891][  0]LoadErrors: Failed to load /CustomMapTools/Examples/Items/FOB/ModItem_FOB.ModItem_FOB_C Referenced by StaticMesh_GEN_VARIABLE
+[2020.06.12-04.50.53:891][  0]LogUObjectGlobals: Warning: Failed to load '/Script/UmbraComputation': Can't find file '/Script/UmbraComputation'
+[2020.06.12-04.50.53:891][  0]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading ../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Items/FOB/S_FobInfo.uasset.
+[2020.06.12-04.50.53:892][  0]LoadErrors: Failed to load /CustomMapTools/Examples/Items/FOB/ModItem_FOB.ModItem_FOB_C Referenced by StaticMesh_GEN_VARIABLE
+[2020.06.12-04.50.53:892][  0]LogUObjectGlobals: Warning: Failed to load '../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Items/FOB/S_FobInfo.uasset': Can't find file for asset '/Script/UmbraComputation' while loading ../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Items/FOB/S_FobInfo.uasset.
+[2020.06.12-04.50.53:893][  0]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.06.12-04.50.53:893][  0]LoadErrors: Failed to load /Script/UmbraComputation.UmbraComponentSettings Referenced by StaticMesh_GEN_VARIABLE
+[2020.06.12-04.50.53:893][  0]LogUObjectGlobals: Warning: Failed to load '/Script/UmbraComputation': Can't find file '/Script/UmbraComputation'
+[2020.06.12-04.50.53:893][  0]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading ../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Items/FOB/S_FobInfo.uasset.
+[2020.06.12-04.50.53:893][  0]LoadErrors: Failed to load /Script/UmbraComputation.UmbraComponentSettings Referenced by StaticMesh_GEN_VARIABLE
+[2020.06.12-04.50.53:893][  0]LogUObjectGlobals: Warning: Failed to load '../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Items/FOB/S_FobInfo.uasset': Can't find file for asset '/Script/UmbraComputation' while loading ../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Items/FOB/S_FobInfo.uasset.
+[2020.06.12-04.50.53:894][  0]LogLinker: Warning: Unable to load UmbraComponentSettings_0 with outer StaticMeshComponent /CustomMapTools/Examples/Items/FOB/ModItem_FOB.ModItem_FOB_C:StaticMesh_GEN_VARIABLE because its class does not exist
+[2020.06.12-04.50.53:902][  0]LogLinker: Warning: Can't find file '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body'
+[2020.06.12-04.50.53:903][  0]LogUObjectGlobals: Warning: Failed to load '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body': Can't find file '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body'
+[2020.06.12-04.50.53:903][  0]LogLinker: Warning: Can't find file for asset '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body' while loading ../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset.
+[2020.06.12-04.50.53:904][  0]LogUObjectGlobals: Warning: Failed to load '../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset': Can't find file for asset '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body' while loading ../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset.
+[2020.06.12-04.50.53:904][  0]LogLinker: Warning: Can't find file '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo'
+[2020.06.12-04.50.53:905][  0]LogUObjectGlobals: Warning: Failed to load '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo': Can't find file '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo'
+[2020.06.12-04.50.53:905][  0]LogLinker: Warning: Can't find file for asset '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo' while loading ../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset.
+[2020.06.12-04.50.53:906][  0]LogUObjectGlobals: Warning: Failed to load '../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset': Can't find file for asset '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo' while loading ../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset.
+[2020.06.12-04.50.53:909][  0]LogLinker: Warning: Can't find file '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body'
+[2020.06.12-04.50.53:909][  0]LogUObjectGlobals: Warning: Failed to load '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body': Can't find file '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body'
+[2020.06.12-04.50.53:910][  0]LogLinker: Warning: Can't find file for asset '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body' while loading ../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset.
+[2020.06.12-04.50.53:910][  0]LogUObjectGlobals: Warning: Failed to load '../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset': Can't find file for asset '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body' while loading ../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset.
+[2020.06.12-04.50.53:911][  0]LogLinker: Warning: Can't find file '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo'
+[2020.06.12-04.50.53:911][  0]LogUObjectGlobals: Warning: Failed to load '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo': Can't find file '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo'
+[2020.06.12-04.50.53:912][  0]LogLinker: Warning: Can't find file for asset '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo' while loading ../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset.
+[2020.06.12-04.50.53:912][  0]LogUObjectGlobals: Warning: Failed to load '../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset': Can't find file for asset '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo' while loading ../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset.
+[2020.06.12-04.50.53:922][  0]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.06.12-04.50.53:922][  0]LogUObjectGlobals: Warning: Failed to load '/Script/UmbraComputation': Can't find file '/Script/UmbraComputation'
+[2020.06.12-04.50.53:923][  0]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading ../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Items/FOB/S_FobInfo.uasset.
+[2020.06.12-04.50.53:923][  0]LogUObjectGlobals: Warning: Failed to load '../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Items/FOB/S_FobInfo.uasset': Can't find file for asset '/Script/UmbraComputation' while loading ../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Items/FOB/S_FobInfo.uasset.
+[2020.06.12-04.50.53:926][  0]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.06.12-04.50.53:926][  0]LogUObjectGlobals: Warning: Failed to load '/Script/UmbraComputation': Can't find file '/Script/UmbraComputation'
+[2020.06.12-04.50.53:926][  0]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading ../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Items/FOB/S_FobInfo.uasset.
+[2020.06.12-04.50.53:927][  0]LogUObjectGlobals: Warning: Failed to load '../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Items/FOB/S_FobInfo.uasset': Can't find file for asset '/Script/UmbraComputation' while loading ../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Items/FOB/S_FobInfo.uasset.
+[2020.06.12-04.50.53:939][  0]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.06.12-04.50.53:939][  0]LogUObjectGlobals: Warning: Failed to load '/Script/UmbraComputation': Can't find file '/Script/UmbraComputation'
+[2020.06.12-04.50.53:939][  0]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading ../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Items/FOB/ModItem_FOB.uasset.
+[2020.06.12-04.50.53:939][  0]LogUObjectGlobals: Warning: Failed to load '../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Items/FOB/ModItem_FOB.uasset': Can't find file for asset '/Script/UmbraComputation' while loading ../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Items/FOB/ModItem_FOB.uasset.
+[2020.06.12-04.50.53:943][  0]LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.06.12-04.50.53:943][  0]LogUObjectGlobals: Warning: Failed to load '/Script/UmbraComputation': Can't find file '/Script/UmbraComputation'
+[2020.06.12-04.50.53:943][  0]LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading ../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Items/FOB/ModItem_FOB.uasset.
+[2020.06.12-04.50.53:943][  0]LogUObjectGlobals: Warning: Failed to load '../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Items/FOB/ModItem_FOB.uasset': Can't find file for asset '/Script/UmbraComputation' while loading ../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Items/FOB/ModItem_FOB.uasset.
+[2020.06.12-04.50.54:537][  0]LogLinker: Warning: Can't find file '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body'
+[2020.06.12-04.50.54:538][  0]LoadErrors: Failed to load /Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body.M_UE4Man_Body Referenced by SK_Mannequin
+[2020.06.12-04.50.54:538][  0]LogUObjectGlobals: Warning: Failed to load '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body': Can't find file '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body'
+[2020.06.12-04.50.54:538][  0]LogLinker: Warning: Can't find file for asset '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body' while loading NULL.
+[2020.06.12-04.50.54:539][  0]LoadErrors: Failed to load /Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body.M_UE4Man_Body Referenced by SK_Mannequin
+[2020.06.12-04.50.54:539][  0]LogUObjectGlobals: Warning: Failed to load '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body': Can't find file for asset '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body' while loading NULL.
+[2020.06.12-04.50.54:539][  0]LogLinker: Warning: Can't find file '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo'
+[2020.06.12-04.50.54:539][  0]LoadErrors: Failed to load /Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo.M_UE4Man_ChestLogo Referenced by SK_Mannequin
+[2020.06.12-04.50.54:539][  0]LogUObjectGlobals: Warning: Failed to load '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo': Can't find file '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo'
+[2020.06.12-04.50.54:540][  0]LogLinker: Warning: Can't find file for asset '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo' while loading NULL.
+[2020.06.12-04.50.54:540][  0]LoadErrors: Failed to load /Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo.M_UE4Man_ChestLogo Referenced by SK_Mannequin
+[2020.06.12-04.50.54:540][  0]LogUObjectGlobals: Warning: Failed to load '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo': Can't find file for asset '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo' while loading NULL.
+[2020.06.12-04.50.54:678][  0]LogAIModule: Creating AISystem for world KOTH_Example
+[2020.06.12-04.50.54:749][  0]LogCook: Display: Cooked packages 184 Packages Remain 200 Total 384
+[2020.06.12-04.50.54:749][  0]LogCook: Display: Cooked packages 184 Packages Remain 199 Total 383
+[2020.06.12-04.50.54:749][  0]LogCook: Display: Cooked packages 184 Packages Remain 198 Total 382
+[2020.06.12-04.50.54:750][  0]LogCook: Display: Cooked packages 184 Packages Remain 197 Total 381
+[2020.06.12-04.50.54:750][  0]LogCook: Display: Cooked packages 184 Packages Remain 196 Total 380
+[2020.06.12-04.50.54:750][  0]LogCook: Display: Cooked packages 184 Packages Remain 195 Total 379
+[2020.06.12-04.50.54:750][  0]LogCook: Display: Cooked packages 184 Packages Remain 194 Total 378
+[2020.06.12-04.50.54:750][  0]LogCook: Display: Cooked packages 184 Packages Remain 193 Total 377
+[2020.06.12-04.50.54:750][  0]LogCook: Display: Cooked packages 184 Packages Remain 192 Total 376
+[2020.06.12-04.50.54:750][  0]LogCook: Display: Cooked packages 184 Packages Remain 191 Total 375
+[2020.06.12-04.50.54:751][  0]LogCook: Display: Cooked packages 184 Packages Remain 190 Total 374
+[2020.06.12-04.50.54:751][  0]LogCook: Display: Cooked packages 184 Packages Remain 189 Total 373
+[2020.06.12-04.50.54:751][  0]LogCook: Display: Cooked packages 184 Packages Remain 188 Total 372
+[2020.06.12-04.50.54:751][  0]LogCook: Display: Cooked packages 184 Packages Remain 187 Total 371
+[2020.06.12-04.50.54:751][  0]LogCook: Display: Cooked packages 184 Packages Remain 186 Total 370
+[2020.06.12-04.50.54:751][  0]LogCook: Display: Cooked packages 184 Packages Remain 185 Total 369
+[2020.06.12-04.50.54:752][  0]LogCook: Display: Cooked packages 184 Packages Remain 184 Total 368
+[2020.06.12-04.50.54:752][  0]LogCook: Display: Cooked packages 184 Packages Remain 183 Total 367
+[2020.06.12-04.50.55:016][  0]LogCook: Display: Cooked packages 234 Packages Remain 183 Total 417
+[2020.06.12-04.50.55:016][  0]LogCook: Display: Cooked packages 234 Packages Remain 182 Total 416
+[2020.06.12-04.50.55:016][  0]LogCook: Display: Cooked packages 234 Packages Remain 181 Total 415
+[2020.06.12-04.50.55:016][  0]LogCook: Display: Cooked packages 234 Packages Remain 180 Total 414
+[2020.06.12-04.50.55:017][  0]LogCook: Display: Cooked packages 234 Packages Remain 179 Total 413
+[2020.06.12-04.50.55:017][  0]LogCook: Display: Cooked packages 234 Packages Remain 178 Total 412
+[2020.06.12-04.50.55:017][  0]LogCook: Display: Cooked packages 234 Packages Remain 177 Total 411
+[2020.06.12-04.50.55:017][  0]LogCook: Display: Cooked packages 234 Packages Remain 176 Total 410
+[2020.06.12-04.50.55:017][  0]LogCook: Display: Cooked packages 234 Packages Remain 175 Total 409
+[2020.06.12-04.50.55:017][  0]LogCook: Display: Cooked packages 234 Packages Remain 174 Total 408
+[2020.06.12-04.50.55:017][  0]LogCook: Display: Cooked packages 234 Packages Remain 173 Total 407
+[2020.06.12-04.50.55:018][  0]LogCook: Display: Cooked packages 234 Packages Remain 172 Total 406
+[2020.06.12-04.50.55:018][  0]LogCook: Display: Cooked packages 234 Packages Remain 171 Total 405
+[2020.06.12-04.50.55:018][  0]LogCook: Display: Cooked packages 234 Packages Remain 170 Total 404
+[2020.06.12-04.50.55:018][  0]LogCook: Display: Cooked packages 234 Packages Remain 169 Total 403
+[2020.06.12-04.50.55:018][  0]LogCook: Display: Cooked packages 234 Packages Remain 168 Total 402
+[2020.06.12-04.50.55:018][  0]LogCook: Display: Cooked packages 234 Packages Remain 167 Total 401
+[2020.06.12-04.50.55:018][  0]LogCook: Display: Cooked packages 234 Packages Remain 166 Total 400
+[2020.06.12-04.50.55:019][  0]LogCook: Display: Cooked packages 234 Packages Remain 165 Total 399
+[2020.06.12-04.50.55:019][  0]LogCook: Display: Cooked packages 234 Packages Remain 164 Total 398
+[2020.06.12-04.50.55:019][  0]LogCook: Display: Cooked packages 234 Packages Remain 163 Total 397
+[2020.06.12-04.50.55:019][  0]LogCook: Display: Cooked packages 234 Packages Remain 162 Total 396
+[2020.06.12-04.50.55:019][  0]LogCook: Display: Cooked packages 234 Packages Remain 161 Total 395
+[2020.06.12-04.50.55:020][  0]LogCook: Display: Cooked packages 234 Packages Remain 160 Total 394
+[2020.06.12-04.50.55:310][  0]LogCook: Display: Cooked packages 234 Packages Remain 159 Total 393
+[2020.06.12-04.50.55:310][  0]LogCook: Display: Cooked packages 234 Packages Remain 158 Total 392
+[2020.06.12-04.50.55:310][  0]LogCook: Display: Cooked packages 234 Packages Remain 157 Total 391
+[2020.06.12-04.50.55:310][  0]LogCook: Display: Cooked packages 234 Packages Remain 156 Total 390
+[2020.06.12-04.50.55:310][  0]LogCook: Display: Cooked packages 234 Packages Remain 155 Total 389
+[2020.06.12-04.50.55:310][  0]LogCook: Display: Cooked packages 234 Packages Remain 154 Total 388
+[2020.06.12-04.50.55:310][  0]LogCook: Display: Cooked packages 234 Packages Remain 153 Total 387
+[2020.06.12-04.50.55:311][  0]LogCook: Display: Cooked packages 234 Packages Remain 152 Total 386
+[2020.06.12-04.50.55:311][  0]LogCook: Display: Cooked packages 234 Packages Remain 151 Total 385
+[2020.06.12-04.50.55:311][  0]LogCook: Display: Cooked packages 234 Packages Remain 150 Total 384
+[2020.06.12-04.50.55:311][  0]LogCook: Display: Cooked packages 234 Packages Remain 149 Total 383
+[2020.06.12-04.50.55:311][  0]LogCook: Display: Cooked packages 234 Packages Remain 148 Total 382
+[2020.06.12-04.50.55:311][  0]LogCook: Display: Cooked packages 234 Packages Remain 147 Total 381
+[2020.06.12-04.50.55:311][  0]LogCook: Display: Cooked packages 234 Packages Remain 146 Total 380
+[2020.06.12-04.50.55:312][  0]LogCook: Display: Cooked packages 234 Packages Remain 145 Total 379
+[2020.06.12-04.50.55:312][  0]LogCook: Display: Cooked packages 234 Packages Remain 144 Total 378
+[2020.06.12-04.50.55:312][  0]LogCook: Display: Cooked packages 234 Packages Remain 143 Total 377
+[2020.06.12-04.50.55:312][  0]LogCook: Display: Cooked packages 234 Packages Remain 142 Total 376
+[2020.06.12-04.50.55:312][  0]LogCook: Display: Cooked packages 234 Packages Remain 141 Total 375
+[2020.06.12-04.50.55:312][  0]LogCook: Display: Cooked packages 234 Packages Remain 140 Total 374
+[2020.06.12-04.50.55:312][  0]LogCook: Display: Cooked packages 234 Packages Remain 139 Total 373
+[2020.06.12-04.50.55:313][  0]LogCook: Display: Cooked packages 234 Packages Remain 138 Total 372
+[2020.06.12-04.50.55:313][  0]LogCook: Display: Cooked packages 234 Packages Remain 137 Total 371
+[2020.06.12-04.50.55:313][  0]LogCook: Display: Cooked packages 234 Packages Remain 136 Total 370
+[2020.06.12-04.50.55:313][  0]LogCook: Display: Cooked packages 234 Packages Remain 135 Total 369
+[2020.06.12-04.50.55:526][  0]LogCook: Display: Cooked packages 284 Packages Remain 134 Total 418
+[2020.06.12-04.50.55:527][  0]LogCook: Display: Cooked packages 284 Packages Remain 133 Total 417
+[2020.06.12-04.50.55:527][  0]LogCook: Display: Cooked packages 284 Packages Remain 132 Total 416
+[2020.06.12-04.50.55:527][  0]LogCook: Display: Cooked packages 284 Packages Remain 131 Total 415
+[2020.06.12-04.50.55:527][  0]LogCook: Display: Cooked packages 284 Packages Remain 130 Total 414
+[2020.06.12-04.50.55:527][  0]LogCook: Display: Cooked packages 284 Packages Remain 129 Total 413
+[2020.06.12-04.50.55:527][  0]LogCook: Display: Cooked packages 284 Packages Remain 128 Total 412
+[2020.06.12-04.50.55:528][  0]LogCook: Display: Cooked packages 284 Packages Remain 127 Total 411
+[2020.06.12-04.50.55:528][  0]LogCook: Display: Cooked packages 284 Packages Remain 126 Total 410
+[2020.06.12-04.50.55:528][  0]LogCook: Display: Cooked packages 284 Packages Remain 125 Total 409
+[2020.06.12-04.50.55:528][  0]LogCook: Display: Cooked packages 284 Packages Remain 124 Total 408
+[2020.06.12-04.50.55:528][  0]LogCook: Display: Cooked packages 284 Packages Remain 123 Total 407
+[2020.06.12-04.50.55:528][  0]LogCook: Display: Cooked packages 284 Packages Remain 122 Total 406
+[2020.06.12-04.50.55:528][  0]LogCook: Display: Cooked packages 284 Packages Remain 121 Total 405
+[2020.06.12-04.50.55:529][  0]LogCook: Display: Cooked packages 284 Packages Remain 120 Total 404
+[2020.06.12-04.50.55:529][  0]LogCook: Display: Cooked packages 284 Packages Remain 119 Total 403
+[2020.06.12-04.50.55:903][  0]LogCook: Display: Cooked packages 284 Packages Remain 118 Total 402
+[2020.06.12-04.50.55:903][  0]LogCook: Display: Cooked packages 284 Packages Remain 117 Total 401
+[2020.06.12-04.50.55:903][  0]LogCook: Display: Cooked packages 284 Packages Remain 116 Total 400
+[2020.06.12-04.50.55:903][  0]LogCook: Display: Cooked packages 284 Packages Remain 115 Total 399
+[2020.06.12-04.50.55:903][  0]LogCook: Display: Cooked packages 284 Packages Remain 114 Total 398
+[2020.06.12-04.50.55:903][  0]LogCook: Display: Cooked packages 284 Packages Remain 113 Total 397
+[2020.06.12-04.50.55:903][  0]LogCook: Display: Cooked packages 284 Packages Remain 112 Total 396
+[2020.06.12-04.50.55:903][  0]LogCook: Display: Cooked packages 284 Packages Remain 111 Total 395
+[2020.06.12-04.50.55:904][  0]LogCook: Display: Cooked packages 284 Packages Remain 110 Total 394
+[2020.06.12-04.50.55:904][  0]LogCook: Display: Cooked packages 284 Packages Remain 109 Total 393
+[2020.06.12-04.50.55:904][  0]LogCook: Display: Cooked packages 284 Packages Remain 108 Total 392
+[2020.06.12-04.50.55:904][  0]LogCook: Display: Cooked packages 284 Packages Remain 107 Total 391
+[2020.06.12-04.50.55:904][  0]LogCook: Display: Cooked packages 284 Packages Remain 106 Total 390
+[2020.06.12-04.50.55:904][  0]LogCook: Display: Cooked packages 284 Packages Remain 105 Total 389
+[2020.06.12-04.50.55:904][  0]LogCook: Display: Cooked packages 284 Packages Remain 104 Total 388
+[2020.06.12-04.50.55:904][  0]LogCook: Display: Cooked packages 284 Packages Remain 103 Total 387
+[2020.06.12-04.50.55:905][  0]LogCook: Display: Cooked packages 284 Packages Remain 102 Total 386
+[2020.06.12-04.50.55:905][  0]LogCook: Display: Cooked packages 284 Packages Remain 101 Total 385
+[2020.06.12-04.50.55:905][  0]LogCook: Display: Cooked packages 284 Packages Remain 100 Total 384
+[2020.06.12-04.50.55:905][  0]LogCook: Display: Cooked packages 284 Packages Remain 99 Total 383
+[2020.06.12-04.50.55:905][  0]LogCook: Display: Cooked packages 284 Packages Remain 98 Total 382
+[2020.06.12-04.50.55:905][  0]LogCook: Display: Cooked packages 284 Packages Remain 97 Total 381
+[2020.06.12-04.50.55:905][  0]LogCook: Display: Cooked packages 284 Packages Remain 96 Total 380
+[2020.06.12-04.50.55:905][  0]LogCook: Display: Cooked packages 284 Packages Remain 95 Total 379
+[2020.06.12-04.50.55:906][  0]LogCook: Display: Cooked packages 284 Packages Remain 94 Total 378
+[2020.06.12-04.50.55:906][  0]LogCook: Display: Cooked packages 284 Packages Remain 93 Total 377
+[2020.06.12-04.50.55:906][  0]LogCook: Display: Cooked packages 284 Packages Remain 92 Total 376
+[2020.06.12-04.50.55:906][  0]LogCook: Display: Cooked packages 284 Packages Remain 91 Total 375
+[2020.06.12-04.50.55:906][  0]LogCook: Display: Cooked packages 284 Packages Remain 90 Total 374
+[2020.06.12-04.50.55:906][  0]LogCook: Display: Cooked packages 284 Packages Remain 89 Total 373
+[2020.06.12-04.50.55:906][  0]LogCook: Display: Cooked packages 284 Packages Remain 88 Total 372
+[2020.06.12-04.50.55:906][  0]LogCook: Display: Cooked packages 284 Packages Remain 87 Total 371
+[2020.06.12-04.50.55:907][  0]LogCook: Display: Cooked packages 284 Packages Remain 86 Total 370
+[2020.06.12-04.50.55:907][  0]LogCook: Display: Cooked packages 284 Packages Remain 85 Total 369
+[2020.06.12-04.50.56:154][  0]LogCook: Display: Cooked packages 334 Packages Remain 84 Total 418
+[2020.06.12-04.50.56:154][  0]LogCook: Display: Cooked packages 334 Packages Remain 83 Total 417
+[2020.06.12-04.50.56:154][  0]LogCook: Display: Cooked packages 334 Packages Remain 82 Total 416
+[2020.06.12-04.50.56:155][  0]LogCook: Display: Cooked packages 334 Packages Remain 81 Total 415
+[2020.06.12-04.50.56:155][  0]LogCook: Display: Cooked packages 334 Packages Remain 80 Total 414
+[2020.06.12-04.50.56:155][  0]LogCook: Display: Cooked packages 334 Packages Remain 79 Total 413
+[2020.06.12-04.50.56:155][  0]LogCook: Display: Cooked packages 334 Packages Remain 78 Total 412
+[2020.06.12-04.50.56:155][  0]LogCook: Display: Cooked packages 334 Packages Remain 77 Total 411
+[2020.06.12-04.50.56:155][  0]LogCook: Display: Cooked packages 334 Packages Remain 76 Total 410
+[2020.06.12-04.50.56:155][  0]LogCook: Display: Cooked packages 334 Packages Remain 75 Total 409
+[2020.06.12-04.50.56:155][  0]LogCook: Display: Cooked packages 334 Packages Remain 74 Total 408
+[2020.06.12-04.50.56:156][  0]LogCook: Display: Cooked packages 334 Packages Remain 73 Total 407
+[2020.06.12-04.50.56:156][  0]LogCook: Display: Cooked packages 334 Packages Remain 72 Total 406
+[2020.06.12-04.50.56:156][  0]LogCook: Display: Cooked packages 334 Packages Remain 71 Total 405
+[2020.06.12-04.50.56:156][  0]LogCook: Display: Cooked packages 334 Packages Remain 70 Total 404
+[2020.06.12-04.50.56:156][  0]LogCook: Display: Cooked packages 334 Packages Remain 69 Total 403
+[2020.06.12-04.50.56:156][  0]LogCook: Display: Cooked packages 334 Packages Remain 68 Total 402
+[2020.06.12-04.50.56:156][  0]LogCook: Display: Cooked packages 334 Packages Remain 67 Total 401
+[2020.06.12-04.50.56:157][  0]LogCook: Display: Cooked packages 334 Packages Remain 66 Total 400
+[2020.06.12-04.50.56:157][  0]LogCook: Display: Cooked packages 334 Packages Remain 65 Total 399
+[2020.06.12-04.50.56:157][  0]LogCook: Display: Cooked packages 334 Packages Remain 64 Total 398
+[2020.06.12-04.50.56:157][  0]LogCook: Display: Cooked packages 334 Packages Remain 63 Total 397
+[2020.06.12-04.50.56:157][  0]LogCook: Display: Cooked packages 334 Packages Remain 62 Total 396
+[2020.06.12-04.50.56:157][  0]LogCook: Display: Cooked packages 334 Packages Remain 61 Total 395
+[2020.06.12-04.50.56:157][  0]LogCook: Display: Cooked packages 334 Packages Remain 60 Total 394
+[2020.06.12-04.50.56:158][  0]LogCook: Display: Cooked packages 334 Packages Remain 59 Total 393
+[2020.06.12-04.50.56:158][  0]LogCook: Display: Cooked packages 334 Packages Remain 58 Total 392
+[2020.06.12-04.50.56:158][  0]LogCook: Display: Cooked packages 334 Packages Remain 57 Total 391
+[2020.06.12-04.50.56:158][  0]LogCook: Display: Cooked packages 334 Packages Remain 56 Total 390
+[2020.06.12-04.50.56:158][  0]LogCook: Display: Cooked packages 334 Packages Remain 55 Total 389
+[2020.06.12-04.50.56:158][  0]LogCook: Display: Cooked packages 334 Packages Remain 54 Total 388
+[2020.06.12-04.50.56:158][  0]LogCook: Display: Cooked packages 334 Packages Remain 53 Total 387
+[2020.06.12-04.50.56:158][  0]LogCook: Display: Cooked packages 334 Packages Remain 52 Total 386
+[2020.06.12-04.50.56:159][  0]LogCook: Display: Cooked packages 334 Packages Remain 51 Total 385
+[2020.06.12-04.50.56:159][  0]LogCook: Display: Cooked packages 334 Packages Remain 50 Total 384
+[2020.06.12-04.50.56:159][  0]LogCook: Display: Cooked packages 334 Packages Remain 49 Total 383
+[2020.06.12-04.50.56:159][  0]LogCook: Display: Cooked packages 334 Packages Remain 48 Total 382
+[2020.06.12-04.50.56:159][  0]LogCook: Display: Cooked packages 334 Packages Remain 47 Total 381
+[2020.06.12-04.50.56:159][  0]LogCook: Display: Cooked packages 334 Packages Remain 46 Total 380
+[2020.06.12-04.50.56:159][  0]LogCook: Display: Cooked packages 334 Packages Remain 45 Total 379
+[2020.06.12-04.50.56:160][  0]LogCook: Display: Cooked packages 334 Packages Remain 44 Total 378
+[2020.06.12-04.50.56:160][  0]LogCook: Display: Cooked packages 334 Packages Remain 43 Total 377
+[2020.06.12-04.50.56:509][  0]LogCook: Display: Cooked packages 334 Packages Remain 42 Total 376
+[2020.06.12-04.50.56:510][  0]LogCook: Display: Cooked packages 334 Packages Remain 41 Total 375
+[2020.06.12-04.50.56:510][  0]LogCook: Display: Cooked packages 334 Packages Remain 40 Total 374
+[2020.06.12-04.50.56:510][  0]LogCook: Display: Cooked packages 334 Packages Remain 39 Total 373
+[2020.06.12-04.50.56:510][  0]LogCook: Display: Cooked packages 334 Packages Remain 38 Total 372
+[2020.06.12-04.50.56:510][  0]LogCook: Display: Cooked packages 334 Packages Remain 37 Total 371
+[2020.06.12-04.50.56:510][  0]LogCook: Display: Cooked packages 334 Packages Remain 36 Total 370
+[2020.06.12-04.50.56:511][  0]LogCook: Display: Cooked packages 334 Packages Remain 35 Total 369
+[2020.06.12-04.50.56:589][  0]LogCook: Display: Cooked packages 368 Packages Remain 35 Total 403
+[2020.06.12-04.50.56:589][  0]LogCook: Display: Cooked packages 368 Packages Remain 34 Total 402
+[2020.06.12-04.50.56:589][  0]LogCook: Display: Cooked packages 368 Packages Remain 33 Total 401
+[2020.06.12-04.50.56:589][  0]LogCook: Display: Cooked packages 368 Packages Remain 32 Total 400
+[2020.06.12-04.50.56:590][  0]LogCook: Display: Cooked packages 368 Packages Remain 31 Total 399
+[2020.06.12-04.50.56:590][  0]LogCook: Display: Cooked packages 368 Packages Remain 30 Total 398
+[2020.06.12-04.50.56:590][  0]LogCook: Display: Cooked packages 368 Packages Remain 29 Total 397
+[2020.06.12-04.50.56:590][  0]LogCook: Display: Cooked packages 368 Packages Remain 28 Total 396
+[2020.06.12-04.50.56:590][  0]LogCook: Display: Cooked packages 368 Packages Remain 27 Total 395
+[2020.06.12-04.50.56:590][  0]LogCook: Display: Cooked packages 368 Packages Remain 26 Total 394
+[2020.06.12-04.50.56:591][  0]LogCook: Display: Cooked packages 368 Packages Remain 25 Total 393
+[2020.06.12-04.50.56:591][  0]LogCook: Display: Cooked packages 368 Packages Remain 24 Total 392
+[2020.06.12-04.50.56:591][  0]LogCook: Display: Cooked packages 368 Packages Remain 23 Total 391
+[2020.06.12-04.50.56:591][  0]LogCook: Display: Cooked packages 368 Packages Remain 22 Total 390
+[2020.06.12-04.50.56:591][  0]LogCook: Display: Cooked packages 368 Packages Remain 21 Total 389
+[2020.06.12-04.50.56:591][  0]LogCook: Display: Cooked packages 368 Packages Remain 20 Total 388
+[2020.06.12-04.50.56:591][  0]LogCook: Display: Cooked packages 368 Packages Remain 19 Total 387
+[2020.06.12-04.50.56:592][  0]LogCook: Display: Cooked packages 368 Packages Remain 18 Total 386
+[2020.06.12-04.50.56:592][  0]LogCook: Display: Cooked packages 368 Packages Remain 17 Total 385
+[2020.06.12-04.50.56:592][  0]LogCook: Display: Cooked packages 368 Packages Remain 16 Total 384
+[2020.06.12-04.50.56:592][  0]LogCook: Display: Cooked packages 368 Packages Remain 15 Total 383
+[2020.06.12-04.50.56:592][  0]LogCook: Display: Cooked packages 368 Packages Remain 14 Total 382
+[2020.06.12-04.50.56:592][  0]LogCook: Display: Cooked packages 368 Packages Remain 13 Total 381
+[2020.06.12-04.50.56:592][  0]LogCook: Display: Cooked packages 368 Packages Remain 12 Total 380
+[2020.06.12-04.50.56:593][  0]LogCook: Display: Cooked packages 368 Packages Remain 11 Total 379
+[2020.06.12-04.50.56:593][  0]LogCook: Display: Cooked packages 368 Packages Remain 10 Total 378
+[2020.06.12-04.50.56:593][  0]LogCook: Display: Cooked packages 368 Packages Remain 9 Total 377
+[2020.06.12-04.50.56:593][  0]LogCook: Display: Cooked packages 368 Packages Remain 8 Total 376
+[2020.06.12-04.50.56:593][  0]LogCook: Display: Cooked packages 368 Packages Remain 7 Total 375
+[2020.06.12-04.50.56:593][  0]LogCook: Display: Cooked packages 368 Packages Remain 6 Total 374
+[2020.06.12-04.50.56:593][  0]LogCook: Display: Cooked packages 368 Packages Remain 5 Total 373
+[2020.06.12-04.50.56:594][  0]LogCook: Display: Cooked packages 368 Packages Remain 4 Total 372
+[2020.06.12-04.50.56:594][  0]LogCook: Display: Cooked packages 368 Packages Remain 3 Total 371
+[2020.06.12-04.50.56:594][  0]LogCook: Display: Cooked packages 368 Packages Remain 2 Total 370
+[2020.06.12-04.50.56:594][  0]LogCook: Display: Cooked packages 368 Packages Remain 1 Total 369
+[2020.06.12-04.50.56:909][  0]LogBlueprintCodeGen: Display: Nativization Summary - AnimBP:
+[2020.06.12-04.50.56:909][  0]LogBlueprintCodeGen: Display: Name, Children, Non-empty Functions (Empty Functions), Variables, FunctionUsage, VariableUsage
+[2020.06.12-04.50.56:910][  0]LogBlueprintCodeGen: Display: Nativization Summary - Shared Variables From Graph: 0
+[2020.06.12-04.50.57:023][  0]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2020.06.12-04.50.57:023][  0]LogAssetRegistryGenerator: Chunk: 0, Started with 366 packages, Final after dependency resolve: 366
+[2020.06.12-04.50.57:023][  0]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2020.06.12-04.50.57:023][  0]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2020.06.12-04.50.57:082][  0]LogAssetRegistryGenerator: Display: Generated asset registry num assets 366, size is 158.82kb
+[2020.06.12-04.50.57:082][  0]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2020.06.12-04.50.57:102][  0]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2020.06.12-04.50.57:102][  0]LogAssetRegistryGenerator: Chunk: 0, Started with 363 packages, Final after dependency resolve: 363
+[2020.06.12-04.50.57:102][  0]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.000 s
+[2020.06.12-04.50.57:102][  0]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2020.06.12-04.50.57:320][  0]LogAssetRegistryGenerator: Display: Generated asset registry num assets 363, size is 158.30kb
+[2020.06.12-04.50.57:321][  0]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2020.06.12-04.50.57:328][  0]LogCook: Display: Cook by the book total time in tick 4.824182s total time 7.670125
+[2020.06.12-04.50.57:328][  0]LogCook: Display: Peak Used virtual 617MB Peak Used physical 604MB
+[2020.06.12-04.50.57:328][  0]LogCook: Display: Hierarchy Timer Information:
+[2020.06.12-04.50.57:328][  0]LogCook: Display:   Root: 0.000s (0)
+[2020.06.12-04.50.57:329][  0]LogCook: Display:     StartCookByTheBookTime: 2.103s (1)
+[2020.06.12-04.50.57:329][  0]LogCook: Display:       GenerateAssetRegistryTime: 0.181s (1)
+[2020.06.12-04.50.57:329][  0]LogCook: Display:       CleanSandboxTime: 0.266s (1)
+[2020.06.12-04.50.57:329][  0]LogCook: Display:         ProcessingAccessedStrings: 0.032s (2)
+[2020.06.12-04.50.57:329][  0]LogCook: Display:       CollectFilesToCook: 0.267s (1)
+[2020.06.12-04.50.57:329][  0]LogCook: Display:         CookModificationDelegate: 0.000s (1)
+[2020.06.12-04.50.57:329][  0]LogCook: Display:         SearchForPackageOnDisk: 0.000s (1)
+[2020.06.12-04.50.57:329][  0]LogCook: Display:         GeneratePackageNames: 0.000s (1)
+[2020.06.12-04.50.57:330][  0]LogCook: Display:       GenerateLongPackageName: 0.000s (1)
+[2020.06.12-04.50.57:330][  0]LogCook: Display:     TickCookOnTheSide: 3.051s (32)
+[2020.06.12-04.50.57:330][  0]LogCook: Display:       LoadPackage: 1.293s (28)
+[2020.06.12-04.50.57:330][  0]LogCook: Display:       CallBeginCacheForCookedPlatformData: 0.031s (32)
+[2020.06.12-04.50.57:330][  0]LogCook: Display:       PostLoadPackageFixup: 0.000s (32)
+[2020.06.12-04.50.57:330][  0]LogCook: Display:       SavingPackages: 1.725s (16)
+[2020.06.12-04.50.57:331][  0]LogCook: Display:         PrecachePlatformDataForNextPackage: 0.001s (363)
+[2020.06.12-04.50.57:331][  0]LogCook: Display:         PrecachePlatformDataForNextNextPackage: 0.362s (358)
+[2020.06.12-04.50.57:331][  0]LogCook: Display:         SaveCookedPackage: 1.345s (368)
+[2020.06.12-04.50.57:331][  0]LogCook: Display:           LoadPackage: 0.001s (736)
+[2020.06.12-04.50.57:331][  0]LogCook: Display:           GEditorSavePackage: 1.322s (736)
+[2020.06.12-04.50.57:331][  0]LogCook: Display:             ConvertingBlueprints: 0.018s (736)
+[2020.06.12-04.50.57:332][  0]LogCook: Display:             VerifyCanCookPackage: 0.003s (729)
+[2020.06.12-04.50.57:332][  0]LogCook: Display:         ClearAllCachedCookedPlatformData: 0.003s (368)
+[2020.06.12-04.50.57:332][  0]LogCook: Display:         EnqueueUnsavedPackages: 0.000s (7)
+[2020.06.12-04.50.57:332][  0]LogCook: Display:     GeneratingBlueprintAssets: 0.003s (1)
+[2020.06.12-04.50.57:332][  0]LogCook: Display:     SavingCurrentIniSettings: 0.101s (1)
+[2020.06.12-04.50.57:332][  0]LogCook: Display:       ProcessingAccessedStrings: 0.027s (2)
+[2020.06.12-04.50.57:333][  0]LogCook: Display:     SavingAssetRegistry: 0.317s (1)
+[2020.06.12-04.50.57:333][  0]LogCook: Display:       BuildChunkManifest: 0.025s (2)
+[2020.06.12-04.50.57:333][  0]LogCook: Display:       SaveManifests: 0.001s (2)
+[2020.06.12-04.50.57:333][  0]LogCook: Display:       SaveRealAssetRegistry: 0.277s (2)
+[2020.06.12-04.50.57:333][  0]LogCook: Display:       WriteCookerOpenOrder: 0.014s (2)
+[2020.06.12-04.50.57:333][  0]LogCookCommandlet: Display: Misc Cook Stats
+[2020.06.12-04.50.57:333][  0]LogCookCommandlet: Display: ===============
+[2020.06.12-04.50.57:334][  0]LogCookCommandlet: Display: ShaderCompiler
+[2020.06.12-04.50.57:334][  0]LogCookCommandlet: Display:     BlockingTimeSec=0.000000
+[2020.06.12-04.50.57:334][  0]LogCookCommandlet: Display:     AsyncCompileTimeSec=0.000000
+[2020.06.12-04.50.57:334][  0]LogCookCommandlet: Display:     GlobalBeginCompileShaderTimeSec=0.000000
+[2020.06.12-04.50.57:334][  0]LogCookCommandlet: Display:     GlobalBeginCompileShaderCalls=0
+[2020.06.12-04.50.57:334][  0]LogCookCommandlet: Display:     ProcessAsyncResultsTimeSec=0.000055
+[2020.06.12-04.50.57:335][  0]LogCookCommandlet: Display: GlobalShader.Misc
+[2020.06.12-04.50.57:335][  0]LogCookCommandlet: Display:     ShadersCompiled=0
+[2020.06.12-04.50.57:335][  0]LogCookCommandlet: Display: MeshMaterial.Misc
+[2020.06.12-04.50.57:335][  0]LogCookCommandlet: Display:     ShadersCompiled=0
+[2020.06.12-04.50.57:335][  0]LogCookCommandlet: Display: MaterialShader.Misc
+[2020.06.12-04.50.57:335][  0]LogCookCommandlet: Display:     ShadersCompiled=0
+[2020.06.12-04.50.57:335][  0]LogCookCommandlet: Display: Package.Load
+[2020.06.12-04.50.57:335][  0]LogCookCommandlet: Display:     NumPackagesLoaded=140
+[2020.06.12-04.50.57:336][  0]LogCookCommandlet: Display:     LoadPackageTimeSec=1.959820
+[2020.06.12-04.50.57:336][  0]LogCookCommandlet: Display: Package.Save
+[2020.06.12-04.50.57:336][  0]LogCookCommandlet: Display:     NumPackagesSaved=736
+[2020.06.12-04.50.57:336][  0]LogCookCommandlet: Display:     SavePackageTimeSec=1.267872
+[2020.06.12-04.50.57:336][  0]LogCookCommandlet: Display:     TagPackageExportsPresaveTimeSec=0.222171
+[2020.06.12-04.50.57:336][  0]LogCookCommandlet: Display:     TagPackageExportsTimeSec=0.078405
+[2020.06.12-04.50.57:336][  0]LogCookCommandlet: Display:     ResetLoadersForSaveTimeSec=0.002571
+[2020.06.12-04.50.57:337][  0]LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithOuter=0.008060
+[2020.06.12-04.50.57:337][  0]LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithMarks=0.000639
+[2020.06.12-04.50.57:337][  0]LogCookCommandlet: Display:     SerializeImportsTimeSec=0.000000
+[2020.06.12-04.50.57:337][  0]LogCookCommandlet: Display:     SortExportsSeekfreeInnerTimeSec=0.124292
+[2020.06.12-04.50.57:337][  0]LogCookCommandlet: Display:     SerializeExportsTimeSec=0.176260
+[2020.06.12-04.50.57:338][  0]LogCookCommandlet: Display:     SerializeBulkDataTimeSec=0.017808
+[2020.06.12-04.50.57:338][  0]LogCookCommandlet: Display:     AsyncWriteTimeSec=0.227571
+[2020.06.12-04.50.57:338][  0]LogCookCommandlet: Display:     MBWritten=109.749986
+[2020.06.12-04.50.57:338][  0]LogCookCommandlet: Display: Package.DifferentPackagesSizeMBPerAsset
+[2020.06.12-04.50.57:338][  0]LogCookCommandlet: Display: Package.NumberOfDifferencesInPackagesPerAsset
+[2020.06.12-04.50.57:338][  0]LogCookCommandlet: Display: Package.PackageDifferencesSizeMBPerAsset
+[2020.06.12-04.50.57:338][  0]LogCookCommandlet: Display: Package.DiffTotal
+[2020.06.12-04.50.57:339][  0]LogCookCommandlet: Display:     NumberOfDifferentPackages=0
+[2020.06.12-04.50.57:339][  0]LogCookCommandlet: Display:     DifferentPackagesSizeMB=0.000000
+[2020.06.12-04.50.57:339][  0]LogCookCommandlet: Display:     NumberOfDifferencesInPackages=0
+[2020.06.12-04.50.57:339][  0]LogCookCommandlet: Display:     PackageDifferencesSizeMB=0.000000
+[2020.06.12-04.50.57:339][  0]LogCookCommandlet: Display: 
+[2020.06.12-04.50.57:339][  0]LogCookCommandlet: Display: Cook Profile
+[2020.06.12-04.50.57:339][  0]LogCookCommandlet: Display: ============
+[2020.06.12-04.50.57:339][  0]LogCookCommandlet: Display:  0.CookWallTimeSec=14.939593
+[2020.06.12-04.50.57:340][  0]LogCookCommandlet: Display:  0. 0.StartupWallTimeSec=7.252984
+[2020.06.12-04.50.57:340][  0]LogCookCommandlet: Display:  0. 1.CookByTheBookTimeSec=7.686591
+[2020.06.12-04.50.57:340][  0]LogCookCommandlet: Display:  0. 1. 0.StartCookByTheBookTimeSec=2.102568
+[2020.06.12-04.50.57:340][  0]LogCookCommandlet: Display:  0. 1. 0. 0.GameCookModificationDelegateTimeSec=0.000015
+[2020.06.12-04.50.57:340][  0]LogCookCommandlet: Display:  0. 1. 1.TickCookOnTheSideTimeSec=5.562877
+[2020.06.12-04.50.57:340][  0]LogCookCommandlet: Display:  0. 1. 1. 0.TickCookOnTheSideLoadPackagesTimeSec=1.293684
+[2020.06.12-04.50.57:340][  0]LogCookCommandlet: Display:  0. 1. 1. 1.TickCookOnTheSideSaveCookedPackageTimeSec=1.345337
+[2020.06.12-04.50.57:341][  0]LogCookCommandlet: Display:  0. 1. 1. 1. 0.TickCookOnTheSideResolveRedirectorsTimeSec=0.000000
+[2020.06.12-04.50.57:341][  0]LogCookCommandlet: Display:  0. 1. 1. 2.TickCookOnTheSideBeginPackageCacheForCookedPlatformDataTimeSec=0.393500
+[2020.06.12-04.50.57:341][  0]LogCookCommandlet: Display:  0. 1. 1. 3.TickCookOnTheSideFinishPackageCacheForCookedPlatformDataTimeSec=0.010371
+[2020.06.12-04.50.57:341][  0]LogCookCommandlet: Display:  0. 1. 2.TickLoopGCTimeSec=0.000000
+[2020.06.12-04.50.57:342][  0]LogCookCommandlet: Display:  0. 1. 3.TickLoopRecompileShaderRequestsTimeSec=0.002698
+[2020.06.12-04.50.57:342][  0]LogCookCommandlet: Display:  0. 1. 4.TickLoopShaderProcessAsyncResultsTimeSec=0.000012
+[2020.06.12-04.50.57:342][  0]LogCookCommandlet: Display:  0. 1. 5.TickLoopProcessDeferredCommandsTimeSec=0.000032
+[2020.06.12-04.50.57:342][  0]LogCookCommandlet: Display:  0. 1. 6.TickLoopTickCommandletStatsTimeSec=0.000003
+[2020.06.12-04.50.57:342][  0]LogCookCommandlet: Display: 
+[2020.06.12-04.50.57:342][  0]LogCookCommandlet: Display: DDC Summary Stats
+[2020.06.12-04.50.57:342][  0]LogCookCommandlet: Display: =================
+[2020.06.12-04.50.57:343][  0]LogCookCommandlet: Display: TotalGetHits  =       929
+[2020.06.12-04.50.57:343][  0]LogCookCommandlet: Display: TotalGets     =       929
+[2020.06.12-04.50.57:343][  0]LogCookCommandlet: Display: TotalGetHitPct=  1.000000
+[2020.06.12-04.50.57:343][  0]LogCookCommandlet: Display: LocalGetHitPct=  0.687836
+[2020.06.12-04.50.57:343][  0]LogCookCommandlet: Display: SharedGetHitPct=  0.000000
+[2020.06.12-04.50.57:343][  0]LogCookCommandlet: Display: OtherGetHitPct=  0.312164
+[2020.06.12-04.50.57:343][  0]LogCookCommandlet: Display: GetMissPct    =  0.000000
+[2020.06.12-04.50.57:344][  0]LogCookCommandlet: Display: TotalPutHits  =         0
+[2020.06.12-04.50.57:344][  0]LogCookCommandlet: Display: TotalPuts     =         0
+[2020.06.12-04.50.57:344][  0]LogCookCommandlet: Display: TotalPutHitPct= -nan(ind)
+[2020.06.12-04.50.57:344][  0]LogCookCommandlet: Display: PutMissPct    = -nan(ind)
+[2020.06.12-04.50.57:344][  0]LogCookCommandlet: Display: 
+[2020.06.12-04.50.57:344][  0]LogCookCommandlet: Display: DDC Resource Stats
+[2020.06.12-04.50.57:344][  0]LogCookCommandlet: Display: =======================================================================================================
+[2020.06.12-04.50.57:345][  0]LogCookCommandlet: Display: Asset Type                          Total Time (Sec)  GameThread Time (Sec)  Assets Built  MB Processed
+[2020.06.12-04.50.57:345][  0]LogCookCommandlet: Display: ----------------------------------  ----------------  ---------------------  ------------  ------------
+[2020.06.12-04.50.57:345][  0]LogCookCommandlet: Display: MaterialShader                                  0.10                   0.10             0         10.42
+[2020.06.12-04.50.57:345][  0]LogCookCommandlet: Display: Texture (Streaming)                             0.10                   0.00             0         48.98
+[2020.06.12-04.50.57:345][  0]LogCookCommandlet: Display: PhysX (BodySetup)                               0.08                   0.08             0          5.28
+[2020.06.12-04.50.57:346][  0]LogCookCommandlet: Display: Texture (Inline)                                0.07                   0.07             0         33.86
+[2020.06.12-04.50.57:346][  0]LogCookCommandlet: Display: StaticMesh                                      0.05                   0.05             0          6.12
+[2020.06.12-04.50.57:346][  0]LogCookCommandlet: Display: GlobalShader                                    0.01                   0.01             0          3.12
+[2020.06.12-04.50.57:346][  0]LogCookCommandlet: Display: SkeletalMesh                                    0.01                   0.01             0          4.03
+[2020.06.12-04.50.57:347][  0]LogCookCommandlet: Display: NavCollision                                    0.00                   0.00             0          0.04
+[2020.06.12-04.50.57:347][  0]LogCookCommandlet: Display: SoundWave                                       0.00                   0.00             0          1.23
+[2020.06.12-04.50.57:347][  0]LogCookCommandlet: Display: DistanceField                                   0.00                   0.00             0          0.00
+[2020.06.12-04.50.57:347][  0]LogInit: Display: 
+[2020.06.12-04.50.57:348][  0]LogInit: Display: Warning/Error Summary (Unique only)
+[2020.06.12-04.50.57:348][  0]LogInit: Display: -----------------------------------
+[2020.06.12-04.50.57:348][  0]LogInit: Display: LogConsoleManager: Warning: Setting the console variable 'r.Tonemapper.Quality' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByProjectSetting'. Value remains '0'
+[2020.06.12-04.50.57:348][  0]LogInit: Display: LogClass: Warning: BoolProperty FPavlovGameModeProperties::bNoTeams is not initialized properly
+[2020.06.12-04.50.57:348][  0]LogInit: Display: LogClass: Warning: BoolProperty FPavlovGameModeProperties::bForceNoScoring is not initialized properly
+[2020.06.12-04.50.57:348][  0]LogInit: Display: LogClass: Warning: BoolProperty FPavlovGameModeProperties::bKeepPawnIfAlive is not initialized properly
+[2020.06.12-04.50.57:349][  0]LogInit: Display: LogClass: Warning: BoolProperty FPavlovGameModeProperties::bDynamicSpawns is not initialized properly
+[2020.06.12-04.50.57:349][  0]LogInit: Display: LogClass: Warning: BoolProperty FPavlovGameModeProperties::bSpawnGhostOnLogin is not initialized properly
+[2020.06.12-04.50.57:349][  0]LogInit: Display: LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bNoTeams is not initialized properly
+[2020.06.12-04.50.57:349][  0]LogInit: Display: LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bForceNoScoring is not initialized properly
+[2020.06.12-04.50.57:350][  0]LogInit: Display: LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bKeepPawnIfAlive is not initialized properly
+[2020.06.12-04.50.57:350][  0]LogInit: Display: LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bDynamicSpawns is not initialized properly
+[2020.06.12-04.50.57:350][  0]LogInit: Display: LogAutomationTest: Warning: BoolProperty FPavlovGameModeProperties::bSpawnGhostOnLogin is not initialized properly
+[2020.06.12-04.50.57:350][  0]LogInit: Display: LogLinker: Warning: Can't find file '/Script/UmbraComputation'
+[2020.06.12-04.50.57:351][  0]LogInit: Display: LogUObjectGlobals: Warning: Failed to load '/Script/UmbraComputation': Can't find file '/Script/UmbraComputation'
+[2020.06.12-04.50.57:351][  0]LogInit: Display: LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading ../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Proxies/BP_HandProxyExample.uasset.
+[2020.06.12-04.50.57:351][  0]LogInit: Display: LogUObjectGlobals: Warning: Failed to load '../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Proxies/BP_HandProxyExample.uasset': Can't find file for asset '/Script/UmbraComputation' while loading ../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Proxies/BP_HandProxyExample.uasset.
+[2020.06.12-04.50.57:352][  0]LogInit: Display: LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading ../../../../../gravelwars-pavlov/Content/CustomMaps/UGC2127530177/BP_PlayerProxyGravel.uasset.
+[2020.06.12-04.50.57:352][  0]LogInit: Display: LogUObjectGlobals: Warning: Failed to load '../../../../../gravelwars-pavlov/Content/CustomMaps/UGC2127530177/BP_PlayerProxyGravel.uasset': Can't find file for asset '/Script/UmbraComputation' while loading ../../../../../gravelwars-pavlov/Content/CustomMaps/UGC2127530177/BP_PlayerProxyGravel.uasset.
+[2020.06.12-04.50.57:353][  0]LogInit: Display: LogLinker: Warning: Unable to load UmbraComponentSettings_0 with outer BP_HandProxyExample_C /CustomMapTools/Examples/Proxies/BP_HandProxyExample.Default__BP_HandProxyExample_C because its class does not exist
+[2020.06.12-04.50.57:353][  0]LogInit: Display: LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading ../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Items/Flashlight/ModItem_Flashlight.uasset.
+[2020.06.12-04.50.57:354][  0]LogInit: Display: LogUObjectGlobals: Warning: Failed to load '../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Items/Flashlight/ModItem_Flashlight.uasset': Can't find file for asset '/Script/UmbraComputation' while loading ../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Items/Flashlight/ModItem_Flashlight.uasset.
+[2020.06.12-04.50.57:354][  0]LogInit: Display: LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading ../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Items/CustomItemTableExample.uasset.
+[2020.06.12-04.50.57:355][  0]LogInit: Display: LogUObjectGlobals: Warning: Failed to load '../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Items/CustomItemTableExample.uasset': Can't find file for asset '/Script/UmbraComputation' while loading ../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Items/CustomItemTableExample.uasset.
+[2020.06.12-04.50.57:355][  0]LogInit: Display: LogLinker: Warning: Unable to load UmbraComponentSettings_0 with outer StaticMeshComponent /CustomMapTools/Examples/Items/Flashlight/ModItem_Flashlight.ModItem_Flashlight_C:StaticMesh_GEN_VARIABLE because its class does not exist
+[2020.06.12-04.50.57:356][  0]LogInit: Display: LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading ../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Items/FOB/S_FobInfo.uasset.
+[2020.06.12-04.50.57:356][  0]LogInit: Display: LogUObjectGlobals: Warning: Failed to load '../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Items/FOB/S_FobInfo.uasset': Can't find file for asset '/Script/UmbraComputation' while loading ../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Items/FOB/S_FobInfo.uasset.
+[2020.06.12-04.50.57:357][  0]LogInit: Display: LogLinker: Warning: Unable to load UmbraComponentSettings_0 with outer StaticMeshComponent /CustomMapTools/Examples/Items/FOB/ModItem_FOB.ModItem_FOB_C:StaticMesh_GEN_VARIABLE because its class does not exist
+[2020.06.12-04.50.57:357][  0]LogInit: Display: LogLinker: Warning: Can't find file '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body'
+[2020.06.12-04.50.57:357][  0]LogInit: Display: LogUObjectGlobals: Warning: Failed to load '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body': Can't find file '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body'
+[2020.06.12-04.50.57:358][  0]LogInit: Display: LogLinker: Warning: Can't find file for asset '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body' while loading ../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset.
+[2020.06.12-04.50.57:358][  0]LogInit: Display: LogUObjectGlobals: Warning: Failed to load '../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset': Can't find file for asset '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body' while loading ../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset.
+[2020.06.12-04.50.57:359][  0]LogInit: Display: LogLinker: Warning: Can't find file '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo'
+[2020.06.12-04.50.57:359][  0]LogInit: Display: LogUObjectGlobals: Warning: Failed to load '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo': Can't find file '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo'
+[2020.06.12-04.50.57:359][  0]LogInit: Display: LogLinker: Warning: Can't find file for asset '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo' while loading ../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset.
+[2020.06.12-04.50.57:360][  0]LogInit: Display: LogUObjectGlobals: Warning: Failed to load '../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset': Can't find file for asset '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo' while loading ../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset.
+[2020.06.12-04.50.57:360][  0]LogInit: Display: LogLinker: Warning: Can't find file for asset '/Script/UmbraComputation' while loading ../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Items/FOB/ModItem_FOB.uasset.
+[2020.06.12-04.50.57:361][  0]LogInit: Display: LogUObjectGlobals: Warning: Failed to load '../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Items/FOB/ModItem_FOB.uasset': Can't find file for asset '/Script/UmbraComputation' while loading ../../../../../gravelwars-pavlov/Plugins/CustomMapTools/Content/Examples/Items/FOB/ModItem_FOB.uasset.
+[2020.06.12-04.50.57:361][  0]LogInit: Display: LogLinker: Warning: Can't find file for asset '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body' while loading NULL.
+[2020.06.12-04.50.57:362][  0]LogInit: Display: LogUObjectGlobals: Warning: Failed to load '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body': Can't find file for asset '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_Body' while loading NULL.
+[2020.06.12-04.50.57:362][  0]LogInit: Display: LogLinker: Warning: Can't find file for asset '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo' while loading NULL.
+[2020.06.12-04.50.57:362][  0]LogInit: Display: LogUObjectGlobals: Warning: Failed to load '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo': Can't find file for asset '/Game/MovementAnimsetPro/UE4_Mannequin/Materials/M_UE4Man_ChestLogo' while loading NULL.
+[2020.06.12-04.50.57:363][  0]LogInit: Display: 
+[2020.06.12-04.50.57:363][  0]LogInit: Display: Success - 0 error(s), 111 warning(s)
+[2020.06.12-04.50.57:363][  0]LogInit: Display: 
+Execution of commandlet took:  7.72 seconds
+[2020.06.12-04.50.57:366][  0]LogExit: Preparing to exit.
+[2020.06.12-04.50.57:390][  0]LogExit: Editor shut down
+[2020.06.12-04.50.57:447][  0]LogExit: Object subsystem successfully closed.
+[2020.06.12-04.50.57:463][  0]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.06.12-04.50.57:496][  0]LogModuleManager: Shutting down and abandoning module BlueprintCompilerCppBackend (476)
+[2020.06.12-04.50.57:496][  0]LogModuleManager: Shutting down and abandoning module CustomMapTools (472)
+[2020.06.12-04.50.57:496][  0]LogModuleManager: Shutting down and abandoning module SteamAudioEditor (470)
+[2020.06.12-04.50.57:496][  0]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (468)
+[2020.06.12-04.50.57:496][  0]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (466)
+[2020.06.12-04.50.57:496][  0]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (464)
+[2020.06.12-04.50.57:497][  0]LogModuleManager: Shutting down and abandoning module PlacementMode (463)
+[2020.06.12-04.50.57:497][  0]LogModuleManager: Shutting down and abandoning module MaterialEditor (462)
+[2020.06.12-04.50.57:497][  0]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (458)
+[2020.06.12-04.50.57:497][  0]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (456)
+[2020.06.12-04.50.57:497][  0]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (454)
+[2020.06.12-04.50.57:497][  0]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (452)
+[2020.06.12-04.50.57:497][  0]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (450)
+[2020.06.12-04.50.57:497][  0]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (448)
+[2020.06.12-04.50.57:497][  0]LogModuleManager: Shutting down and abandoning module SequenceRecorder (447)
+[2020.06.12-04.50.57:497][  0]LogModuleManager: Shutting down and abandoning module Persona (446)
+[2020.06.12-04.50.57:497][  0]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (445)
+[2020.06.12-04.50.57:497][  0]LogModuleManager: Shutting down and abandoning module AnimGraph (443)
+[2020.06.12-04.50.57:497][  0]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (438)
+[2020.06.12-04.50.57:497][  0]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (436)
+[2020.06.12-04.50.57:497][  0]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (434)
+[2020.06.12-04.50.57:497][  0]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (432)
+[2020.06.12-04.50.57:497][  0]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (430)
+[2020.06.12-04.50.57:497][  0]LogModuleManager: Shutting down and abandoning module Media (429)
+[2020.06.12-04.50.57:503][  0]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (426)
+[2020.06.12-04.50.57:503][  0]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (424)
+[2020.06.12-04.50.57:503][  0]LogModuleManager: Shutting down and abandoning module CharacterAI (422)
+[2020.06.12-04.50.57:503][  0]LogModuleManager: Shutting down and abandoning module SmartSnapping (420)
+[2020.06.12-04.50.57:503][  0]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (418)
+[2020.06.12-04.50.57:503][  0]LogModuleManager: Shutting down and abandoning module MovieScene (416)
+[2020.06.12-04.50.57:503][  0]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (414)
+[2020.06.12-04.50.57:503][  0]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (412)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module JsonUtils (402)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module PavlovProxy (400)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module SteamVRController (398)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (396)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (394)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module OculusInput (392)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (390)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module EditableMesh (388)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (386)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module CableComponent (384)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module AudioCapture (382)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (380)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module AndroidPermission (378)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (376)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (374)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module MediaCompositing (372)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module LinearTimecode (370)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module HTML5Networking (368)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (366)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (364)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module AppleVision (362)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (360)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module AppleImageUtils (358)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module AlembicImporter (356)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module AlembicLibrary (355)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module GeometryCache (354)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (353)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module VariantManagerContent (348)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (346)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (344)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module PluginBrowser (342)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (340)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module PolygonModeling (338)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module MeshEditor (336)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (334)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module CryptoKeys (332)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (330)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (328)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module UObjectPlugin (326)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (324)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (322)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module GitSourceControl (320)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module SourceControl (319)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (316)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (314)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (312)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (310)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (308)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (306)
+[2020.06.12-04.50.57:505][  0]LogModuleManager: Shutting down and abandoning module Paper2DEditor (304)
+[2020.06.12-04.50.57:506][  0]LogModuleManager: Shutting down and abandoning module MeshPaint (303)
+[2020.06.12-04.50.57:506][  0]LogModuleManager: Shutting down and abandoning module Settings (302)
+[2020.06.12-04.50.57:506][  0]LogModuleManager: Shutting down and abandoning module SteamAudio (298)
+[2020.06.12-04.50.57:506][  0]LogSteamAudio: FSteamAudioModule Shutdown
+[2020.06.12-04.50.57:506][  0]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (296)
+[2020.06.12-04.50.57:506][  0]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (294)
+[2020.06.12-04.50.57:506][  0]LogModuleManager: Shutting down and abandoning module PhysXVehicles (292)
+[2020.06.12-04.50.57:506][  0]LogModuleManager: Shutting down and abandoning module OculusEditor (290)
+[2020.06.12-04.50.57:506][  0]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (288)
+[2020.06.12-04.50.57:506][  0]LogModuleManager: Shutting down and abandoning module ApexDestructionEditor (286)
+[2020.06.12-04.50.57:506][  0]LogModuleManager: Shutting down and abandoning module ApexDestruction (284)
+[2020.06.12-04.50.57:506][  0]LogModuleManager: Shutting down and abandoning module ActorSequence (282)
+[2020.06.12-04.50.57:506][  0]LogModuleManager: Shutting down and abandoning module UdpMessaging (280)
+[2020.06.12-04.50.57:506][  0]LogModuleManager: Shutting down and abandoning module TcpMessaging (278)
+[2020.06.12-04.50.57:506][  0]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (276)
+[2020.06.12-04.50.57:506][  0]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (274)
+[2020.06.12-04.50.57:506][  0]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (272)
+[2020.06.12-04.50.57:506][  0]LogModuleManager: Shutting down and abandoning module FacialAnimation (270)
+[2020.06.12-04.50.57:506][  0]LogModuleManager: Shutting down and abandoning module DataValidation (268)
+[2020.06.12-04.50.57:506][  0]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (266)
+[2020.06.12-04.50.57:506][  0]LogModuleManager: Shutting down and abandoning module TreeMap (265)
+[2020.06.12-04.50.57:506][  0]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (262)
+[2020.06.12-04.50.57:506][  0]LogModuleManager: Shutting down and abandoning module AISupportModule (260)
+[2020.06.12-04.50.57:506][  0]LogModuleManager: Shutting down and abandoning module Paper2D (258)
+[2020.06.12-04.50.57:506][  0]LogModuleManager: Shutting down and abandoning module PacketHandler (256)
+[2020.06.12-04.50.57:506][  0]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (254)
+[2020.06.12-04.50.57:506][  0]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (252)
+[2020.06.12-04.50.57:506][  0]LogModuleManager: Shutting down and abandoning module MediaAssets (250)
+[2020.06.12-04.50.57:506][  0]LogModuleManager: Shutting down and abandoning module Overlay (248)
+[2020.06.12-04.50.57:506][  0]LogModuleManager: Shutting down and abandoning module OverlayEditor (247)
+[2020.06.12-04.50.57:506][  0]LogModuleManager: Shutting down and abandoning module Blutility (244)
+[2020.06.12-04.50.57:506][  0]LogModuleManager: Shutting down and abandoning module LevelEditor (243)
+[2020.06.12-04.50.57:507][  0]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (242)
+[2020.06.12-04.50.57:507][  0]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (240)
+[2020.06.12-04.50.57:507][  0]LogModuleManager: Shutting down and abandoning module MainFrame (238)
+[2020.06.12-04.50.57:507][  0]LogModuleManager: Shutting down and abandoning module HotReload (237)
+[2020.06.12-04.50.57:507][  0]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2020.06.12-04.50.57:507][  0]LogModuleManager: Shutting down and abandoning module CollectionManager (232)
+[2020.06.12-04.50.57:507][  0]LogModuleManager: Shutting down and abandoning module IntroTutorials (228)
+[2020.06.12-04.50.57:507][  0]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (226)
+[2020.06.12-04.50.57:507][  0]LogModuleManager: Shutting down and abandoning module VREditor (224)
+[2020.06.12-04.50.57:508][  0]LogModuleManager: Shutting down and abandoning module StringTableEditor (222)
+[2020.06.12-04.50.57:508][  0]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (220)
+[2020.06.12-04.50.57:508][  0]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (218)
+[2020.06.12-04.50.57:508][  0]LogModuleManager: Shutting down and abandoning module FunctionalTesting (216)
+[2020.06.12-04.50.57:508][  0]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (214)
+[2020.06.12-04.50.57:508][  0]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (213)
+[2020.06.12-04.50.57:508][  0]LogModuleManager: Shutting down and abandoning module UMG (210)
+[2020.06.12-04.50.57:508][  0]LogModuleManager: Shutting down and abandoning module UMGEditor (209)
+[2020.06.12-04.50.57:508][  0]LogModuleManager: Shutting down and abandoning module Sequencer (208)
+[2020.06.12-04.50.57:508][  0]LogModuleManager: Shutting down and abandoning module MessageLog (205)
+[2020.06.12-04.50.57:508][  0]LogModuleManager: Shutting down and abandoning module SlateReflector (200)
+[2020.06.12-04.50.57:508][  0]LogModuleManager: Shutting down and abandoning module Slate (198)
+[2020.06.12-04.50.57:508][  0]LogModuleManager: Shutting down and abandoning module EditorStyle (196)
+[2020.06.12-04.50.57:509][  0]LogModuleManager: Shutting down and abandoning module MRMesh (194)
+[2020.06.12-04.50.57:509][  0]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (192)
+[2020.06.12-04.50.57:510][  0]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (190)
+[2020.06.12-04.50.57:510][  0]LogModuleManager: Shutting down and abandoning module XAudio2 (188)
+[2020.06.12-04.50.57:510][  0]LogModuleManager: Shutting down and abandoning module Networking (186)
+[2020.06.12-04.50.57:510][  0]LogModuleManager: Shutting down and abandoning module Core (184)
+[2020.06.12-04.50.57:510][  0]LogModuleManager: Shutting down and abandoning module LevelSequence (182)
+[2020.06.12-04.50.57:510][  0]LogModuleManager: Shutting down and abandoning module KismetCompiler (180)
+[2020.06.12-04.50.57:510][  0]LogModuleManager: Shutting down and abandoning module MeshUtilities (178)
+[2020.06.12-04.50.57:510][  0]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (177)
+[2020.06.12-04.50.57:510][  0]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (176)
+[2020.06.12-04.50.57:510][  0]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (175)
+[2020.06.12-04.50.57:510][  0]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (173)
+[2020.06.12-04.50.57:510][  0]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (171)
+[2020.06.12-04.50.57:510][  0]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (169)
+[2020.06.12-04.50.57:510][  0]LogModuleManager: Shutting down and abandoning module MaterialBaking (165)
+[2020.06.12-04.50.57:510][  0]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (161)
+[2020.06.12-04.50.57:510][  0]LogModuleManager: Shutting down and abandoning module DerivedDataCache (158)
+[2020.06.12-04.50.58:012][  0]LogDerivedDataCache: Shutdown
+[2020.06.12-04.50.58:012][  0]LogModuleManager: Shutting down and abandoning module XGEController (156)
+[2020.06.12-04.50.58:012][  0]LogModuleManager: Shutting down and abandoning module TargetPlatform (154)
+[2020.06.12-04.50.58:012][  0]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (153)
+[2020.06.12-04.50.58:012][  0]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (151)
+[2020.06.12-04.50.58:012][  0]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (149)
+[2020.06.12-04.50.58:012][  0]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (147)
+[2020.06.12-04.50.58:012][  0]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (145)
+[2020.06.12-04.50.58:012][  0]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (143)
+[2020.06.12-04.50.58:012][  0]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (141)
+[2020.06.12-04.50.58:012][  0]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (139)
+[2020.06.12-04.50.58:012][  0]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (137)
+[2020.06.12-04.50.58:012][  0]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (135)
+[2020.06.12-04.50.58:012][  0]LogModuleManager: Shutting down and abandoning module ImageWrapper (134)
+[2020.06.12-04.50.58:012][  0]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (131)
+[2020.06.12-04.50.58:012][  0]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (129)
+[2020.06.12-04.50.58:012][  0]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (127)
+[2020.06.12-04.50.58:012][  0]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (125)
+[2020.06.12-04.50.58:012][  0]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (123)
+[2020.06.12-04.50.58:013][  0]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (121)
+[2020.06.12-04.50.58:013][  0]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (119)
+[2020.06.12-04.50.58:013][  0]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2020.06.12-04.50.58:013][  0]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (115)
+[2020.06.12-04.50.58:013][  0]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (113)
+[2020.06.12-04.50.58:013][  0]LogModuleManager: Shutting down and abandoning module Messaging (111)
+[2020.06.12-04.50.58:013][  0]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (109)
+[2020.06.12-04.50.58:014][  0]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (107)
+[2020.06.12-04.50.58:014][  0]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (105)
+[2020.06.12-04.50.58:017][  0]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (103)
+[2020.06.12-04.50.58:018][  0]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (101)
+[2020.06.12-04.50.58:018][  0]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (99)
+[2020.06.12-04.50.58:018][  0]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (97)
+[2020.06.12-04.50.58:018][  0]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (95)
+[2020.06.12-04.50.58:018][  0]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (93)
+[2020.06.12-04.50.58:018][  0]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (91)
+[2020.06.12-04.50.58:018][  0]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (89)
+[2020.06.12-04.50.58:018][  0]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (87)
+[2020.06.12-04.50.58:018][  0]LogModuleManager: Shutting down and abandoning module NullDrv (84)
+[2020.06.12-04.50.58:018][  0]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2020.06.12-04.50.58:018][  0]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (80)
+[2020.06.12-04.50.58:018][  0]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2020.06.12-04.50.58:018][  0]LogHMD: Freeing OpenVRDLLHandle.
+[2020.06.12-04.50.58:018][  0]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2020.06.12-04.50.58:018][  0]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2020.06.12-04.50.58:018][  0]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2020.06.12-04.50.58:018][  0]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2020.06.12-04.50.58:018][  0]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2020.06.12-04.50.58:018][  0]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2020.06.12-04.50.58:049][  0]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2020.06.12-04.50.58:067][  0]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2020.06.12-04.50.58:068][  0]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2020.06.12-04.50.58:068][  0]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2020.06.12-04.50.58:068][  0]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2020.06.12-04.50.58:068][  0]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2020.06.12-04.50.58:068][  0]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2020.06.12-04.50.58:068][  0]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2020.06.12-04.50.58:068][  0]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2020.06.12-04.50.58:068][  0]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2020.06.12-04.50.58:068][  0]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2020.06.12-04.50.58:069][  0]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2020.06.12-04.50.58:069][  0]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2020.06.12-04.50.58:069][  0]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2020.06.12-04.50.58:069][  0]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2020.06.12-04.50.58:069][  0]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2020.06.12-04.50.58:069][  0]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2020.06.12-04.50.58:069][  0]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2020.06.12-04.50.58:069][  0]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2020.06.12-04.50.58:069][  0]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2020.06.12-04.50.58:069][  0]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2020.06.12-04.50.58:069][  0]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2020.06.12-04.50.58:069][  0]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2020.06.12-04.50.58:069][  0]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2020.06.12-04.50.58:069][  0]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2020.06.12-04.50.58:069][  0]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2020.06.12-04.50.58:069][  0]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2020.06.12-04.50.58:069][  0]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2020.06.12-04.50.58:069][  0]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2020.06.12-04.50.58:073][  0]LogExit: Exiting.
+[2020.06.12-04.50.58:094][  0]Log file closed, 06/11/20 21:50:58
